@@ -1,0 +1,1020 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "TASARIM, ANALİZ ve İMALAT MÜHENDİSLİĞİ KURSU",
+      "titleParams": "/makine/TASARIM-ANALİZ-ve-İMALAT-MÜHENDİSLİĞİ-KURSU"
+    },
+    {
+      "id": 2,
+      "title": "ARGE MÜHENDİSLİĞİ KURSU",
+      "titleParams": "/makine/ARGE-MÜHENDİSLİĞİ-KURSU"
+    },
+    {
+        "id": 3,
+    "title": "TASARIM MÜHENDİSLİĞİ KURSU",
+    "titleParams" : "/makine/TASARIM-MÜHENDİSLİĞİ-KURSU"
+    },
+    {
+        "id": 4,
+        "title": "ANALİZ MÜHENDİSLİĞİ KURSU",
+        "titleParams" : "ANALİZ-MÜHENDİSLİĞİ-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 5,
+        "title": "SOLIDWORKS İLE PLASTİK KALIP TASARIM KURSU",
+        "titleParams" : "/makine/SOLIDWORKS-İLE-PLASTİK-KALIP-TASARIM-KURSU"
+    },
+    {
+        "id": 6,
+        "title": "SOLIDWORKS İLE PROGRASIF SAC KALIP TASARIM KURSU",
+        "titleParams" : "/makine/SOLIDWORKS-İLE-PROGRASIF-SAC-KALIP-TASARIM-KURSU"
+    },
+    {
+        "id": 7,
+    "title": "CAD/CAM/CNC UZMANLIĞI KURSU",
+    "titleParams" : "/makine/CAD-CAM-CNC-UZMANLIĞI-KURSU"
+    },
+    {
+        "id": 8,
+        "title": "RHINOCEROS GEMİ VE YAT TASARIM KURSU",
+        "titleParams" : "/makine/RHINOCEROS-GEMİ-VE-YAT-TASARIM-KURSU"
+    },
+    {
+        "id": 9,
+        "title": "MAKİNE SINIRSIZ EĞİTİM PAKETİ",
+        "titleParams" : "/makine/MAKİNE-SINIRSIZ-EĞİTİM-PAKETİ"
+    },
+    {
+        "id": 10,
+        "title": "SOLIDWORKS KURSU",
+        "titleParams" : "/makine/SOLIDWORKS-KURSU"
+    },
+    {
+        "id": 11,
+        "title": "CATIA KURSU",
+        "titleParams" : "/makine/CATIA-KURSU"
+    },
+    {
+        "id": 12,
+        "title": "SIEMENS NX (UNIGRAPHICS) KURSU",
+        "titleParams" : "/makine/SIEMENS-NX-UNIGRAPHICS-KURSU"
+    },
+    {
+
+        "id": 13,
+        "title": "ANSYS KURSU",
+        "titleParams" : "/makine/ANSYS-KURSU"
+    },
+    {
+        "id": 14,
+        "title": "FLUENT CFD KURSU",
+        "titleParams" : "/makine/FLUENT-CFD-KURSU"
+    },
+    {
+        "id": 15,
+        "title": "3D EXPERIENCE SOLIDWORKS KURSU",
+        "titleParams" : "3D-EXPERIENCE-SOLIDWORKS-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 16,
+        "title": "MATLAB VE SIMULINK KURSU",
+        "titleParams" : "MATLAB-VE-SIMULINK-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 17,
+        "title": "MEKATRONİK MÜHENDİSLİĞİ KURSU",
+        "titleParams" : "MEKATRONİK-MÜHENDİSLİĞİ-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 18,
+        "title": "POWERMILL KURSU",
+        "titleParams" : "POWERMILL-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 19,
+    "title": "3D EXPERIENCE CATIA KURSU",
+    "titleParams" : "3D-EXPERIENCE-CATIA-KURSU",
+    "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 20,
+        "title": "3D EXPERIENCE SIMULIA KURSU",
+        "titleParams" : "3D-EXPERIENCE-SIMULIA-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 21,
+        "title": "SOLIDWORKS/CATIA İLE YERLİ OTOMOBİL TOGG TASARIM KURSU",
+        "titleParams" : "SOLIDWORKS-CATIA-İLE-YERLİ-OTOMOBİL-TOGG-TASARIM-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 22,
+        "title": "SIEMENS NX İLE PLASTİK KALIP TASARIM KURSU",
+        "titleParams" : "SIEMENS-NX-İLE-PLASTİK-KALIP-TASARIM-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 23,
+        "title": "ABAQUS KURSU",
+        "titleParams" : "ABAQUS-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 24,
+        "title": "SIEMENS NX İLE PROGRASIV SAC KALIP TASARIM KURSU",
+        "titleParams" : "SIEMENS-NX-İLE-PROGRASIV-SAC-KALIP-TASARIM-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 25,
+        "title": "3D EXPERIENCE KURSU",
+        "titleParams" : "3D-EXPERIENCE-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 26,
+        "title": "AUTOCAD KURSU",
+        "titleParams" : "/makine/AUTOCAD-KURSU"
+    },
+    {
+        "id": 27,
+        "title": "REVIT MEP KURSU",
+        "titleParams" : "/makine/REVIT-MEP-KURSU"
+    },
+    {
+        "id": 28,
+        "title": "DIALUX KURSU",
+        "titleParams" : "/makine/DIALUX-KURSU"
+    },
+    {
+        "id": 29,
+        "title": "NAVISWORKS KURSU",
+        "titleParams" : "NAVISWORKS-KURSU",
+        "minTitle": "/makine/Makine Eğitimleri"
+    },
+    {
+        "id": 30,
+        "title": "AUTODESK FUSION 360 KURSU",
+        "titleParams" : "/makine/AUTODESK-FUSION-360-KURSU"
+    },
+    {
+        "id": 31,
+        "title": "INVENTOR KURSU",
+        "titleParams" : "/makine/INVENTOR-KURSU"
+    },
+    {
+        "id": 32,
+        "title": "MOLDFLOW İLE KALIP ANALİZİ KURSU",
+        "titleParams" : "/makine/MOLDFLOW-İLE-KALIP-ANALİZİ-KURSU"
+    },
+    {
+        "id": 33,
+        "title": "PRO ENGINEER CREO KURSU",
+        "titleParams" : "/makine/PRO-ENGINEER-CREO-KURSU"
+    },
+    {
+        "id": 34,
+        "title": "TEKLA STRUCTURE KURSU",
+        "titleParams" : "/makine/TEKLA-STRUCTURE-KURSU"
+    },
+    {
+        "id": 35,
+        "title": "SOLIDWORKS SIMULATION KURSU",
+        "titleParams" : "/makine/SOLIDWORKS-SIMULATION-KURSU"
+    },
+    {
+        "id": 36,
+        "title": "SOLIDWORKS FLOW SIMULATION KURSU",
+        "titleParams" : "/makine/SOLIDWORKS-FLOW-SIMULATION-KURSU"
+    },
+    {
+        "id": 37,
+        "title": "SOLIDWORKS MOTION SIMULATION KURSU",
+        "titleParams" : "/makine/SOLIDWORKS-MOTION-SIMULATION-KURSU"
+    },
+    {
+        "id": 38,
+        "title": "ARDUINO ROBOT PROGRAMLAMA KURSU",
+        "titleParams" : "/makine/ARDUINO-ROBOT-PROGRAMLAMA-KURSU"
+    },
+    {
+        "id": 39,
+        "title": "MAXSURF KURSU",
+        "titleParams" : "/makine/MAXSURF-KURSU"
+    },
+    {
+        "id": 40,
+        "title": "RAPID FORM TERSİNE MÜHENDİSLİK KURSU",
+        "titleParams" : "/makine/RAPID-FORM-TERSİNE-MÜHENDİSLİK-KURSU"
+    },
+    {
+        "id": 41,
+        "title": "AUTODESK ALIAS KURSU",
+        "titleParams" : "/makine/AUTODESK-ALIAS-KURSU"
+    },
+    {
+        "id": 42,
+        "title": "AUTOCAD PLANT 3D TESİS TASARIMI",
+        "titleParams" : "/makine/AUTOCAD-PLANT-3D-TESİS-TASARIMI"
+    },
+    {
+        "id": 43,
+        "title": "SOLIDWORKS PLASTICS İLE KALIP ANALİZİ KURSU",
+        "titleParams" : "/makine/SOLIDWORKS-PLASTICS-İLE-KALIP-ANALİZİ-KURSU"
+    },
+    {
+        "id": 44,
+        "title": "SOLIDCAM KURSU",
+        "titleParams" : "/makine/SOLIDCAM-KURSU"
+    },
+    {
+        "id": 45,
+        "title": "MASTERCAM KURSU",
+        "titleParams" : "/makine/MASTERCAM-KURSU"
+    },
+    {
+        "id": 46,
+        "title": "ARTCAM KURSU",
+        "titleParams" : "/makine/ARTCAM-KURSU"
+    },
+    {
+        "id": 47,
+        "title": "SIEMENS NX CAM KURSU",
+        "titleParams" : "/makine/SIEMENS-NX-CAM-KURSU"
+    },
+    {
+        "id": 48,
+        "title": "CNC PROGRAMLAMA EĞİTİMİ",
+        "titleParams" : "/makine/CNC-PROGRAMLAMA-EĞİTİMİ"
+    },
+    {
+        "id": 49,
+        "title": "CNC UYGULAMASI EĞİTİMİ",
+        "titleParams" : "/makine/CNC-UYGULAMASI-EĞİTİMİ"
+    },
+    {
+        "id": 50,
+        "title": "MS OFFICE İLE İLERİ EXCEL VE MAKRO KURSU",
+        "titleParams" : "makine/MS-OFFICE-İLE-İLERİ-EXCEL-VE-MAKRO-KURSU"
+    },
+    {
+      "id": 51,
+    "title": "POWER BI KURSU",
+    "titleParams" : "/yazilim/POWER-BI-KURSU"
+
+  },
+  {
+      "id": 52,
+      "title": "POWER QUERY KURSU",
+      "titleParams" : "/yazilim/POWER-QUERY-KURSU"
+  },
+  {
+      "id": 53,
+      "title": "DİJİTAL OYUN YAZILIM UZMANLIĞI EĞİTİMİ (GAME DEVELOPER)",
+      "titleParams" : "/yazilim/DİJİTAL-OYUN-YAZILIM-UZMANLIĞI-EĞİTİMİ"
+  },
+  {
+      "id": 54,
+    "title": "OYUN YAZILIM VE TASARIM MÜHENDİSLİĞİ (GAME DESIGNER AND GAME DEVELOPER)",
+    "titleParams" : "/yazilim/OYUN-YAZILIM-VE-TASARIM-MÜHENDİSLİĞİ"
+  },
+  {
+      "id": 55,
+    "title": "FULL STACK DEVELOPER YAZILIM UZMANLIĞI KURSU",
+    "titleParams" : "/yazilim/FULL-STACK-DEVELOPER-YAZILIM-UZMANLIĞI-KURSU"
+  },
+  {
+      "id": 56,
+    "title": "YAZILIM UZMANLIĞI KURSU",
+    "titleParams" : "/yazilim/YAZILIM-UZMANLIĞI-KURSU"
+  },
+  {
+      "id": 57,
+    "title": "FRONTEND ve MOBIL YAZILIM UZMANLIĞI KURSU",
+    "titleParams" : "/insaat/FRONTEND-ve-MOBIL-YAZILIM-UZMANLIĞI-KURSU"
+  },
+  {
+      "id": 58,
+    "title": "PYTHON ile YAPAY ZEKA ve BÜYÜK VERİ MÜHENDİSLİĞİ KURSU",
+    "titleParams" : "/yazilim/PYTHON-ile-YAPAY-ZEKA-ve-BÜYÜK-VERİ-MÜHENDİSLİĞİ-KURSU"
+  },
+  {
+      "id": 59,
+    "title": "YAPAY ZEKA KURSU",
+    "titleParams" : "/yazilim/YAPAY-ZEKA-KURSU"
+  },
+  {
+      "id": 60,
+      "title": "BIG DATA ve DATA SCIENCE KURSU",
+      "titleParams" : "/yazilim/BIG-DATA-ve-DATA-SCIENCE-KURSU"
+  },
+  {
+      "id": 61,
+    "title": "SİBER GÜVENLİK (CEH ETİK HACKING) KURSU",
+    "titleParams" : "/yazilim/SİBER-GÜVENLİK-(CEH-ETİK-HACKING)-KURSU"
+  },
+  {
+      "id": 62,
+    "title": "REACT NATIVE İLE MOBİL UYGULAMA GELİŞTİRME KURSU",
+    "titleParams" : "/yazilim/SİBER-GÜVENLİK-(CEH-ETİK-HACKING)-KURSU"
+  },
+  {
+      "id": 63,
+    "title": "UNITY OYUN PROGRAMLAMA UZMANLIĞI KURSU",
+    "titleParams" : "/yazilim/UNITY-OYUN-PROGRAMLAMA-UZMANLIĞI-KURSU"
+  },
+  {
+      "id": 64,
+      "title": "WEB TASARIM VE WEB YAZILIM UZMANLIĞI KURSU",
+      "titleParams" : "/yazilim/WEB-TASARIM-VE-WEB-YAZILIM-UZMANLIĞI-KURSU"
+  },
+  {
+      "id": 65,
+    "title": "PYTHON KURSU",
+    "titleParams" : "/yazilim/PYTHON-KURSU"
+  },
+  {
+      "id": 66,
+    "title": "C# KURSU",
+    "titleParams" : "/yazilim/C#-KURSU"
+  },
+  {
+      "id": 67,
+      "title": "JAVA KURSU",
+      "titleParams" : "/yazilim/JAVA-KURSU"
+  },
+  {
+      "id": 68,
+      "title": "GOLANG Kursu",
+      "titleParams" : "/yazilim/GOLANG-Kursu"
+  },
+  {
+      "id": 69,
+      "title": "PHP VE MYSQL KURSU",
+      "titleParams" : "/yazilim/PHP-VE-MYSQL-KURSU"
+  },
+  {
+      "id": 70,
+    "title": "PYTHON IOT KURSU",
+    "titleParams" : "/yazilim/PYTHON-IOT-KURSU"
+  },
+  {
+      "id": 71,
+    "title": ".NET CORE KURSU",
+    "titleParams" : "/yazilim/.NET-CORE-KURSU"
+  },
+  {
+      "id": 72,
+    "title": "FLUTTER İLE MOBİL UYGULAMA GELİŞTİRME KURSU",
+    "titleParams" : "/yazilim/FLUTTER-İLE-MOBİL-UYGULAMA-GELİŞTİRME-KURSU"
+  },
+  {
+      "id": 73,
+      "title": "BITCOIN VE FOREX KURSU",
+      "titleParams" : "/yazilim/BITCOIN-VE-FOREX-KURSU"
+  },
+  {
+      "id": 74,
+    "title": "ANDROID UYGULAMA GELİŞTİRME KURSU",
+    "titleParams" : "/yazilim/ANDROID-UYGULAMA-GELİŞTİRME-KURSU"
+  },
+  {
+      "id": 75,
+      "title": "IOS UYGULAMA GELİŞTİRME KURSU",
+      "titleParams" : "/yazilim/IOS-UYGULAMA-GELİŞTİRME-KURSU"
+  },
+  {
+      "id": 76,
+      "title": "MATLAB VE SIMULINK KURSU",
+      "titleParams" : "/yazilim/MATLAB-VE-SIMULINK-KURSU"
+  },
+  {
+      "id": 77,
+    "title": "SINIRSIZ YAZILIM EĞİTİM PAKETİ",
+    "titleParams" : "/yazilim/SINIRSIZ-YAZILIM-EĞİTİM-PAKETİ"
+  },
+  {
+      "id": 78,
+    "title": "LARAVEL KURSU",
+    "titleParams" : "/yazilim/LARAVEL-KURSU"
+  },
+  {
+      "id": 79,
+      "title": "ARDUINO ROBOTİK KODLAMA KURSU",
+      "titleParams" : "/yazilim/ARDUINO-ROBOTİK-KODLAMA-KURSU"
+  },
+  {
+      "id": 80,
+    "title": "SQL SERVER VERİTABANI PROGRAMLAMA KURSU",
+    "titleParams" : "/yazilim/SQL-SERVER-VERİTABANI-PROGRAMLAMA-KURSU"
+  },
+  {
+      "id": 81,
+      "title": "SQL SERVER VERİTABANI YÖNETİMİ KURSU",
+      "titleParams" : "/yazilim/SQL-SERVER-VERİTABANI-YÖNETİMİ-KURSU"
+  },
+  {
+      "id": 82,
+    "title": "SİSTEM ANALİSTİ VE İŞ ZEKASI KURSU",
+    "titleParams" : "/yazilim/SİSTEM-ANALİSTİ-VE-İŞ-ZEKASI-KURSU"
+  },
+  {
+      "id": 83,
+      "title": "SQL SERVER İLE İŞ ZEKASI KURSU",
+      "titleParams" : "/yazilim/SQL-SERVER-İLE-İŞ-ZEKASI-KURSU"
+  },
+  {
+      "id": 84,
+      "title": "PL/SQL VERİ TABANI KURSU",
+      "titleParams" : "/yazilim/PL/SQL-VERİ-TABANI-KURSU"
+  },
+  {
+      "id": 85,
+      "title": "SQL İLE ORACLE VERİTABANI TEMEL KAVRAMLARI",
+      "titleParams" : "/yazilim/SQL-İLE-ORACLE-VERİTABANI-TEMEL-KAVRAMLARI"
+  },
+  {
+      "id": 86,
+      "title": "ORACLE DATA INTEGRATOR (ODI) 11G",
+      "titleParams" : "/yazilim/ORACLE-DATA-INTEGRATOR-(ODI)-11G"
+  },
+  {
+      "id": 87,
+    "title": "ORACLE BUSINESS INTELLIGENCE 12C",
+    "titleParams" : "/yazilim/ORACLE-BUSINESS-INTELLIGENCE-12C"
+  },
+  {
+      "id": 88,
+    "title": "MOBİL YAZILIM ELİT PAKETİ",
+    "titleParams" : "/yazilim/MOBİL-YAZILIM-ELİT-PAKETİ"
+  },
+  {
+      "id": 89,
+      "title": "WEB YAZILIM UZMANLIĞI KURSU",
+      "titleParams" : "/yazilim/WEB-YAZILIM-UZMANLIĞI-KURSU"
+  },
+  {
+      "id": 90,
+      "title": "MICROSOFT T-SQL SORGULAMA DİLİ",
+      "titleParams" : "/yazilim/MICROSOFT-T-SQL-SORGULAMA-DİLİ"
+  },
+  {
+    "id": 91,
+    "title": "BIM MANAGER KURSU",
+    "titleParams" : "/mimari/BIM-MANAGER-KURSU"
+},
+{
+    "id": 92,
+    "title": "MİMARİ TASARIM UZMANLIĞI KURSU",
+    "titleParams" : "/mimari/MIMARI-TASARIM-UZMANLIGI-KURSU"
+},
+{
+    "id": 93,
+    "title": "METRAJ HAKEDİŞ VE ŞANTİYE YAPI İŞLETMESİ KURSU",
+    "titleParams" : "/mimari/METRAJ-HAKEDİŞ-VE-ŞANTİYE-YAPI-İŞLETMESİ-KURSU"
+},
+{
+    "id": 94,
+  "title": "RHINOCEROS ARCHITECTURE KURSU",
+  "titleParams" : "/mimari/RHINOCEROS-ARCHITECTURE-KURSU"
+},
+{
+    "id": 95,
+  "title": "RHINOCEROS GRASSHOPPER KURSU",
+  "titleParams" : "/mimari/RHINOCEROS-GRASSHOPPER-KURSU"
+},
+{
+    "id": 96,
+    "title": "REVIT ARCHITECTURE ve STRUCTURE KURSU",
+    "titleParams" : "/mimari/REVIT-ARCHITECTURE-ve-STRUCTURE-KURSU"
+},
+{
+    "id": 97,
+    "title": "REVIT DYNAMO KURSU",
+    "titleParams": "/mimari/REVIT-DYNAMO-KURSU"
+},
+{
+    "id": 98,
+    "title": "REVIT STRUCTURE KURSU",
+    "titleParams" : "/mimari/REVIT-STRUCTURE-KURSU"
+},
+{
+    "id": 99,
+  "title": "3DS MAX KURSU",
+  "titleParams" : "/mimari/3DS-MAX-KURSU"
+},
+{
+    "id": 100,
+    "title": "ALLPLAN MİMARİ ve MÜHENDİSLİK KURSU",
+    "titleParams" : "/mimari/ALLPLAN-MİMARİ-ve-MÜHENDİSLİK-KURSU"
+},
+{
+    "id": 101,
+  "title": "MİMARİ SINIRSIZ EĞİTİM PAKETİ",
+  "titleParams" : "/mimari/MİMARİ-SINIRSIZ-EĞİTİM-PAKETİ"
+},
+{
+    "id": 102,
+    "title": "SKETCH UP KURSU",
+    "titleParams" : "/mimari/SKETCH-UP-KURSU"
+},
+{
+    "id": 103,
+    "title": "PHOTOSHOP POST PRODUCTION KURSU",
+    "titleParams" : "/mimari/PHOTOSHOP-POST-PRODUCTION-KURSU"
+},
+{
+    "id": 104,
+  "title": "AUTOCAD KURSU",
+  "titleParams" : "/mimari/AUTOCAD-KURSU"
+},
+{
+    "id": 105,
+  "title": "LUMION 3D KURSU",
+  "titleParams" : "/mimari/LUMION-3D-KURSU"
+},
+{
+    "id": 106,
+    "title": "REVIT MEP KURSU",
+    "titleParams" : "/mimari/REVIT-MEP-KURSU"
+},
+{
+    "id": 107,
+    "title": "UNREAL ENGINE MİMARİ ANİMASYON KURSU",
+    "titleParams" : "/mimari/UNREAL-ENGINE-MİMARİ-ANİMASYON-KURSU"
+},
+{
+    "id": 108,
+    "title": "V-RAY KURSU",
+    "titleParams" : "/mimari/V-RAY-KURSU"
+},
+{
+    "id": 109,
+    "title": "ARCHİCAD KURSU",
+    "titleParams" : "/mimari/ARCHİCAD-KURSU"
+},
+{
+    "id": 110,
+  "title": "MS OFFICE İLE İLERİ EXCEL VE MAKRO KURSU",
+  "titleParams" : "/mimari/MS-OFFICE-İLE-İLERİ-EXCEL-VE-MAKRO-KURSU"
+},
+{
+  "id": 111,
+  "title": "BIM MANAGER KURSU",
+  "titleParams" :"/insaat/BIM-MANAGER-KURSU"
+
+},
+{
+  "id": 112,
+  "title": "ÇELİK YAPILAR PROJE MÜHENDİSLİĞİ KURSU",
+  "titleParams" :"/insaat/ÇELİK-YAPILAR-PROJE-MÜHENDİSLİĞİ-KURSU"
+ 
+},
+{
+  "id": 113,
+  "title": "BETONARME YAPILAR PROJE MÜHENDİSLİĞİ KURSU",
+  "titleParams" :"/insaat/BETONARME-YAPILAR-PROJE-MÜHENDİSLİĞİ-KURSU"
+
+},
+{
+  "id": 114,
+  "title": "KÖPRÜ TASARIM MÜHENDİSLİĞİ KURSU",
+  "titleParams" :"/insaat/KÖPRÜ-TASARIM-MÜHENDİSLİĞİ-KURSU"
+
+},
+{
+  "id": 115,
+  "title": "METRAJ HAKEDİŞ VE ŞANTİYE YAPI İŞLETMESİ KURSU",
+  "titleParams" :"/insaat/METRAJ-HAKEDİŞ-VE-ŞANTİYE-YAPI-İŞLETMESİ-KURSU"
+
+},
+{
+  "id": 116,
+  "title": "SAP2000 KURSU",
+  "titleParams" :"/insaat/SAP2000-KURSU"
+
+},
+{
+  "id": 117,
+  "title": "ETABS VE SAFE KURSU",
+  "titleParams" :"/insaat/ETABS-VE-SAFE-KURSU"
+ 
+},
+{
+  "id": 118,
+  "title": "STA4CAD KURSU",
+  "titleParams" :"/insaat/STA4CAD-KURSU"
+
+},
+{
+  "id": 119,
+  "title": "IDECAD KURSU",
+  "titleParams" :"/insaat/IDECAD-KURSU"
+
+},
+{
+  "id": 120,
+  "title": "TEKLA STRUCTURE KURSU",
+  "titleParams" :"/insaat/TEKLA-STRUCTURE-KURSU"
+
+},
+{
+  "id": 121,
+  "title": "REVIT STRUCTURE KURSU",
+  "titleParams" :"/insaat/REVIT-STRUCTURE-KURSU"
+
+},
+{
+  "id": 122,
+  "title": "3DS MAX KURSU",
+  "titleParams" :"/insaat/3DS-MAX-KURSU"
+
+},
+{
+  "id": 123,
+  "title": "SINIRSIZ İNŞAAT EĞİTİM PAKETİ",
+  "titleParams" :"/insaat/SINIRSIZ-İNŞAAT-EĞİTİM-PAKETİ"
+
+},
+{
+  "id": 124,
+  "title": "REVIT MEP KURSU",
+  "titleParams" :"/insaat/REVIT-MEP-KURSU"
+
+},
+{
+  "id": 125,
+  "title": "NAVISWORKS KURSU",
+  "titleParams" :"/insaat/NAVISWORKS-KURSU"
+
+},
+{
+  "id": 126,
+  "title": "AUTOCAD KURSU",
+  "titleParams" :"/insaat/AUTOCAD-KURSU"
+
+},
+{
+  "id": 127,
+  "title": "ROBOT STRUCTURE ANALYSIS KURSU",
+  "titleParams" :"/insaat/ROBOT-STRUCTURE-ANALYSIS-KURSU"
+
+},
+{
+  "id": 128,
+  "title": "AUTODESK CIVIL 3D KURSU",
+  "titleParams" :"/insaat/AUTODESK-CIVIL-3D-KURSU"
+
+},
+{
+  "id": 129,
+  "title": "ALLPLAN BRIDGE KURSU",
+  "titleParams" :"/insaat/ALLPLAN-BRIDGE-KURSU"
+
+},
+{
+  "id": 130,
+  "title": "PRIMAVERA KURSU",
+  "titleParams" :"/insaat/PRIMAVERA-KURSU"
+
+},
+{
+  "id": 131,
+  "title": "MS PROJECT KURSU",
+  "titleParams" :"/insaat/MS-PROJECT-KURSU"
+
+},
+{
+  "id": 132,
+  "title": "AUTODESK INSIGHT KURSU",
+  "titleParams" :"/insaat/AUTODESK-INSIGHT-KURSU"
+
+},
+{
+  "id": 133,
+  "title": "BİM TEORİK EĞİTİMİ",
+  "titleParams" :"/insaat/BİM-TEORİK-EĞİTİMİ"
+
+},
+{
+  "id": 134,
+  "title": "MS OFFICE İLE İLERİ EXCEL VE MAKRO KURSU",
+  "titleParams" :"/insaat/MS-OFFICE-İLE-İLERİ-EXCEL-VE-MAKRO-KURSU"
+
+},
+{
+  "id": 135,
+  "title": "WEB TASARIM UZMANLIĞI KURSU",
+  "titleParams" : "/grafikVideo/WEB-TASARIM-UZMANLIĞI-KURSU"
+
+},
+{
+  "id": 136,
+  "title": "GRAFİK TASARIM VE VİDEO EFFECT UZMANLIĞI KURSU",
+  "titleParams" : "/grafikVideo/GRAFİK-TASARIM-VE-VİDEO-EFFECT-UZMANLIĞI-KURSU"
+
+},
+{
+  "id": 137,
+  "title": "GRAFİK TASARIM UZMANLIĞI KURSU",
+  "titleParams" : "/grafikVideo/GRAFİK-TASARIM-UZMANLIĞI-KURSU"
+
+},
+{
+  "id": 138,
+  "title": "VİDEO VE EFEKT UZMANLIĞI KURSU",
+  "titleParams" : "/grafikVideo/VİDEO-VE-EFEKT-UZMANLIĞI-KURSU"
+
+},
+{
+  "id": 139,
+  "title": "MAYA KARAKTER MODELLEME VE ANİMASYON KURSU",
+  "titleParams" : "/grafikVideo/MAYA-KARAKTER-MODELLEME-VE-ANİMASYON-KURSU"
+
+},
+{
+  "id": 140,
+  "title": "ZBRUSH KURSU",
+  "titleParams" : "/grafikVideo/ZBRUSH-KURSU"
+
+},
+{
+  "id": 141,
+  "title": "AFTER EFFECTS KURSU",
+  "titleParams" : "/grafikVideo/AFTER-EFFECTS-KURSU"
+
+},
+{
+  "id": 142,
+  "title": "PREMIERE KURSU",
+  "titleParams" : "/grafikVideo/PREMIERE-KURSU"
+
+},
+{
+  "id": 143,
+  "title": "PHOTOSHOP KURSU",
+  "titleParams" : "/grafikVideo/PHOTOSHOP-KURSU"
+
+},
+{
+  "id": 144,
+  "title": "INDESIGN KURSU",
+  "titleParams" : "/grafikVideo/INDESIGN-KURSU"
+
+},
+{
+  "id": 145,
+  "title": "ILLUSTRATOR KURSU",
+  "titleParams" : "/grafikVideo/ILLUSTRATOR-KURSU"
+
+},
+{
+  "id": 146,
+  "title": "CORELDRAW KURSU",
+  "titleParams" : "/grafikVideo/CORELDRAW-KURSU"
+
+},
+{
+  "id": 147,
+  "title": "MEKATRONİK MÜHENDİSLİĞİ KURSU",
+  "titleParams" :"/elektrikElektronik/Mekatronik-mühendisliği-kursu"
+
+},
+{
+  "id": 148,
+  "title": "PLC PROGRAMLAMA KURSU",
+  "titleParams": "/elektrikElektronik/PLC-programlama-kursu"
+
+},
+{
+  "id": 149,
+  "title": "ELEKTRİK ELEKTRONİK KURSU",
+  "titleParams" :"/elektrikElektronik/Elektrik-elektronik-kursu"
+
+},
+{
+  "id": 150,
+  "title": "OTOMATİK KUMANDA KURSU",
+  "titleParams" : "/elektrikElektronik/Otomatik-kumanda-kursu"
+
+},
+{
+  "id": 151,
+  "title": "SERVO MOTOR VE STEP MOTOR KURSU",
+  "titleParams" : "/elektrikElektronik/Servo-motor-ve-step-motor-kursu"
+
+},
+{
+  "id": 152,
+  "title": "PNÖMATİK VE ELEKTROPNÖMATİK KURSU",
+  "titleParams" : "/elektrikElektronik/Pnömatik-ve-elektropnömatik-kursu"
+
+},
+{
+  "id": 153,
+  "title": "ARDUINO ROBOTİK KODLAMA KURSU",
+  "titleParams" : "/elektrikElektronik/Arduino-robotik-kodlama-kursu"
+
+},
+{
+  "id": 154,
+  "title": "REVIT MEP ELEKTRİK KURSU",
+  "titleParams" : "/elektrikElektronik/Revit-mep-elektrik-kursu"
+
+},
+{
+  "id": 155,
+  "title": "CEP TELEFONU TAMİRİ KURSU",
+  "titleParams" : "/elektrikElektronik/Cep-telefonu-tamiri-kursu"
+
+},
+{
+  "id": 156,
+  "title": "DİJİTAL OYUN TASARIM UZMANLIĞI EĞİTİMİ (GAME DESIGNER)",
+  "titleParams" :"/meslekiBilisim/digital-oyun-tasarim-uzmanligi-egitimi-game-designer"
+
+},
+{
+  "id": 157,
+  "title": "BLENDER KURSU",
+  "titleParams" :"/meslekiBilisim/blender-kursu"
+
+},
+{
+  "id": 158,
+  "title": "YAZILIM UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/yazilim-uzmanligi-kursu"
+
+},
+{
+  "id": 159,
+  "title": "SİSTEM UZMANLIĞI (MCSA) KURSU",
+  "titleParams" :"/meslekiBilisim/sistem-uzmanligi-mcsa-kursu"
+
+},
+{
+  "id": 160,
+  "title": "SİBER GÜVENLİK (CEH ETİK HACKING) KURSU",
+  "titleParams" :"/meslekiBilisim/siber-guvenlik-ceh-etik-hacking-kursu"
+
+},
+{
+  "id": 161,
+  "title": "FIREWALL KURSU (PALO ALTO, FORTIGATE, CHECKPOINT)",
+  "titleParams" :"/meslekiBilisim/firewall-kursu-palo-alto-fortigate-checkpoint"
+
+},
+{
+  "id": 162,
+  "title": "CISCO NETWORK SECURITY KURSU",
+  "titleParams" :"/meslekiBilisim/cisco-network-security-kursu"
+
+},
+{
+  "id": 163,
+  "title": "NETWORK UZMANLIĞI (CCNA, HUAWEI, HP) KURSU",
+  "titleParams" :"/meslekiBilisim/network-uzmanligi-ccna-huawei-hp-kursu"
+
+},
+{
+  "id": 164,
+  "title": "WEB TASARIM VE WEB YAZILIM UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/web-tasarim-ve-web-yazilim-uzmanligi-kursu"
+
+},
+{
+  "id": 165,
+  "title": "MOBİL UYGULAMA GELİŞTİRME KURSU",
+  "titleParams" :"/meslekiBilisim/mobil-uygulama-gelistirme-kursu"
+
+},
+{
+  "id": 166,
+  "title": "UNITY OYUN PROGRAMLAMA UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/unity-oyun-programlama-uzmanligi-kursu"
+
+},
+{
+  "id": 167,
+  "title": "DİJİTAL PAZARLAMA VE SOSYAL MEDYA UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/dijital-pazarlama-ve-sosyal-medya-uzmanligi-kursu"
+
+},
+{
+  "id": 168,
+  "title": "ZBRUSH KURSU",
+  "titleParams" :"/meslekiBilisim/zbrush-kursu"
+
+},
+{
+  "id": 169,
+  "title": "MAYA KARAKTER MODELLEME VE ANİMASYON KURSU",
+  "titleParams" :"/meslekiBilisim/maya-karakter-modelleme-ve-animasyon-kursu"
+ 
+},
+{
+  "id": 170,
+  "title": "BİLGİSAYARLI MUHASEBE KURSU",
+  "titleParams" :"/meslekiBilisim/bilgisayarli-muhasebe-kursu"
+  
+},
+{
+  "id": 171,
+  "title": "BİLGİSAYARLI İLERİ MUHASEBE KURSU",
+  "titleParams" :"/meslekiBilisim/bilgisayarli-ileri-muhasebe-kursu"
+
+},
+{
+  "id": 172,
+  "title": "REACT NATIVE İLE MOBİL UYGULAMA GELİŞTİRME KURSU",
+  "titleParams" :"/meslekiBilisim/react-native-ile-mobil-uygulama-gelistirme-kursu"
+
+},
+{
+  "id": 173,
+  "title": "PLASTİK KALIP TASARIM UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/plastik-kalip-tasarim-uzmanligi-kursu"
+
+},
+{
+  "id": 174,
+  "title": "PROGRASIV SAC KALIP UZMANLIĞI TASARIM KURSU",
+  "titleParams" :"/meslekiBilisim/prograsiv-sac-kalip-uzmanligi-tasarim-kursu"
+
+},
+{
+  "id": 175,
+  "title": "CEP TELEFONU TAMİRİ KURSU",
+  "titleParams" :"/meslekiBilisim/cep-telefonu-tamiri-kursu"
+
+},
+{
+  "id": 176,
+  "title": "BITCOIN VE FOREX KURSU",
+  "titleParams" :"/meslekiBilisim/bitcoin-ve-forex-kursu"
+
+},
+{
+  "id": 177,
+  "title": "GEMİ VE YAT TASARIM UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/gemi-ve-yat-tasarim-uzmanligi-kursu"
+
+},
+{
+  "id": 178,
+  "title": "CAD/CAM/CNC UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/cad-cam-cnc-uzmanligi-kursu"
+
+},
+{
+  "id": 179,
+  "title": "MOBİL YAZILIM ELİT PAKETİ",
+  "titleParams" :"/meslekiBilisim/mobil-yazilim-elit-paketi"
+
+},
+{
+  "id": 180,
+  "title": "SOSYAL MEDYA UZMANLIĞI KURSU",
+  "titleParams" :"/meslekiBilisim/sosyal-medya-uzmanligi-kursu"
+
+},
+{
+  "id": 181,
+  "title": "SEO EĞİTİMİ",
+  "titleParams" :"/meslekiBilisim/seo-egitimi"
+
+},
+{
+  "id": 182,
+  "title": "GOOGLE ADWORDS KURSU",
+  "titleParams" :"/meslekiBilisim/google-adwords-kursu"
+
+},
+{
+  "id": 183,
+  "title": "WORDPRESS EĞİTİMİ",
+  "titleParams" :"/meslekiBilisim/wordpress-egitimi"
+
+},
+{
+  "id": 184,
+  "title": "BİLGİSAYARLI STİLİSTLİK KURSU",
+  "titleParams" :"/meslekiBilisim/bilgisayarli-stilistlik-kursu"
+
+},
+{
+  "id": 185,
+  "title": "MS OFFICE İLE İLERİ EXCEL VE MAKRO KURSU",
+  "titleParams" :"/meslekiBilisim/ms-office-ile-ileri-excel-ve-makro-kursu"
+
+}
+  ]
+
+}

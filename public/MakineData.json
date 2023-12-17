@@ -1,0 +1,2490 @@
+[
+  {
+    "id": 1,
+    "title": "TASARIM, ANALİZ ve İMALAT MÜHENDİSLİĞİ KURSU",
+    "titleParams" : "TASARIM-ANALİZ-ve-İMALAT-MÜHENDİSLİĞİ-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/6-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"TASARIM, ANALİZ ve İMALAT",
+    "AciklamaSection1Desc" :"Türkiye’de bu kadar tek kapsamlı eğitim olarak düzenlediğimiz eğitim paketindeki amacımız, bir mühendis ya da teknik eleman tasarımdan analize, analizden imalata ya da gelen işin çeşidine göre her türlü sisteme ve yazılıma hakim olmalıdır. Bunu bildiğimizden dolayı Türkiye’de çok az kişinin sahip olduğu yazılımları tek bir paket olarak öğrencilerimize sunuyoruz. Eğitimimiz 15 tane programı kapsayıp 720 saat sürmektedir.",
+    "DersSaati" : "720 Saat",
+    "KursSuresi" :"12-30 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+        
+
+        
+    
+  },
+  {
+    "id": 2,
+    "title": "ARGE MÜHENDİSLİĞİ KURSU",
+    "titleParams" : "ARGE-MÜHENDİSLİĞİ-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/7.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"ARGE",
+    "AciklamaSection1Desc" :"Türkiye’de bu kadar tek kapsamlı eğitim olarak düzenlediğimiz eğitim paketindeki amacımız, bir mühendis ya da teknik eleman tasarımdan analize, analizden imalata ya da gelen işin çeşidine göre her türlü sisteme ve yazılıma hakim olmalıdır. Bunu bildiğimizden dolayı Türkiye’de çok az kişinin sahip olduğu yazılımları tek bir paket olarak öğrencilerimize sunuyoruz. Eğitimimiz 11 tane programı kapsayıp 570 saat sürmektedir.",
+    "DersSaati" : "570 Saat",
+    "KursSuresi" :"12-30 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "TASARIM MÜHENDİSLİĞİ KURSU",
+    "titleParams" : "TASARIM-MÜHENDİSLİĞİ-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/makine-elit-paketi-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"TASARIM",
+    "AciklamaSection1Desc" :"Türkiye’de bu kadar tek kapsamlı eğitim olarak düzenlediğimiz eğitim paketindeki amacımız, bir mühendis ya da teknik eleman tasarımdan analize, analizden imalata ya da gelen işin çeşidine göre her türlü sisteme ve yazılıma hakim olmalıdır. Bunu bildiğimizden dolayı Türkiye’de çok az kişinin sahip olduğu yazılımları tek bir paket olarak öğrencilerimize sunuyoruz. Eğitimimiz 7 tane programı kapsayıp 378 saat sürmektedir.",
+    "DersSaati" : "378 Saat",
+    "KursSuresi" :"16 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ANALİZ MÜHENDİSLİĞİ KURSU",
+    "titleParams" : "ANALİZ-MÜHENDİSLİĞİ-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/2.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"ANALİZ",
+    "AciklamaSection1Desc" :"Türkiye’de bu kadar tek kapsamlı eğitim olarak düzenlediğimiz eğitim paketindeki amacımız, bir mühendis ya da teknik eleman tasarımdan analize, analizden imalata ya da gelen işin çeşidine göre her türlü sisteme ve yazılıma hakim olmalıdır. Bunu bildiğimizden dolayı Türkiye’de çok az kişinin sahip olduğu yazılımları tek bir paket olarak öğrencilerimize sunuyoruz. Eğitimimiz 11 tane programı kapsayıp 192 saat sürmektedir.",
+    "DersSaati" : "192 Saat",
+    "KursSuresi" :"6-8 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+    
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      }
+    
+    ]
+  },
+  {
+    "id": 5,
+    "title": "SOLIDWORKS İLE PLASTİK KALIP TASARIM KURSU",
+    "titleParams" : "SOLIDWORKS-İLE-PLASTİK-KALIP-TASARIM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2015/12/SOLIDWORKS-%C4%B0LE-PLAST%C4%B0K-KALIP-TASARIM-KURSU-e%C4%9Fitimi-1.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS İLE",
+    "AciklamaSection1Desc" :"Üst düzey teknik bilgiler sayesinde Türkiye’de sayılı insanlar arasına girip kaliteli bir işiniz olacak ya da kendi işinizi yapıyorsanız daha sistematik çalışacaksınız. 7,5 Ay Kurs Süresi Sıfırdan başlayıp 7,5 ay sonunda kalıp tasarım uzmanlığı seviyesine geleceğiniz tek eğitim kurumu. Kursta uygulamalı bir şekilde tüm farklı kalıp sistemlerinin tasarımlarını yaparak öğreneceksiniz.",
+    "DersSaati" : "182 Saat",
+    "KursSuresi" :"7,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2015/12/ELECTRODEWORKS.png",
+        "titleEgitimIcerigi" : "ELECTROWORKS",
+        "descEgitimIcerigi" :"Dalma Erezyon için bakır elektrot tasarımı"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2015/12/moldworks.png",
+        "titleEgitimIcerigi" : "MOLDWORKS",
+        "descEgitimIcerigi" :"Kalıp Elemanları Kütüphanesi ile çok hızlı kalıp tasarımı"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2015/12/splitworks.png",
+        "titleEgitimIcerigi" : "SPLITWORKS",
+        "descEgitimIcerigi" :"SplitWorks SolidWorks’un İçinde Çalışan Kalıp Ayırma Programıdır"
+      }
+    
+    ]
+  },
+  {
+    "id": 6,
+    "title": "SOLIDWORKS İLE PROGRASIF SAC KALIP TASARIM KURSU",
+    "titleParams" : "SOLIDWORKS-İLE-PROGRASIF-SAC-KALIP-TASARIM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/solidworks-kursu-e%C4%9Fitimleri.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS İLE",
+    "AciklamaSection1Desc" :"Türkiye’de ilk ve tek prograsif sac metal kalıp tasarım kursu veren eğitim kurumuyuz. Kalıp tasarım ve imalatını Avrupa ve Amerikan standartlarında yapabilir düzeye geleceksiniz. Sadece prograsif sac metal kalıpçıları için geliştirilmiş logopress3 programını etkin bir şekilde öğrenip kullanacaksınız. Geleceğinize Yatırım Yapın. Üst düzey teknik bilgiler sayesinde Türkiye’de sayılı insanlar arasına girip kaliteli bir işiniz olacak ya da kendi işinizi yapıyorsanız daha sistematik çalışacaksınız. Sıfırdan başlayıp 7,5 ay sonunda kalıp tasarım uzmanlığı seviyesine geleceksiniz.",
+    "DersSaati" : "182 Saat",
+    "KursSuresi" :"7,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/LOGOPRESS3.png",
+        "titleEgitimIcerigi" : "LOGOPRESS – 72 SAAT",
+        "descEgitimIcerigi" :"Sac kalıpçılığı için dizayn edilmiş tasarım programı"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "CAD/CAM/CNC UZMANLIĞI KURSU",
+    "titleParams" : "CAD-CAM-CNC-UZMANLIĞI-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/08/cnc-operat%C3%B6rl%C3%BC%C4%9F%C3%BC-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"CAD & CAM & CNC",
+    "AciklamaSection1Desc" :"3 Kursu bir araya getiren Üçüncü Binyıl Teknik Eğitim Akademi’si sayesinde sizler de makine, mobilya, tarım makineleri mühendisliği vb. bir çok iş kolunda hem CAD kursu hem CAM kursu hem de CNC kursu görmenin verdiği avantaj ile iş dünyasına sağlam bir giriş yapabilirsiniz. 186 saat süren 8 aylık CAD CAM CNC kursumuz Türkiye’nin tartışmasız en kapsamlı cad cam cnc kursudur.",
+    "DersSaati" : "186 Saat",
+    "KursSuresi" :"8 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "RHINOCEROS GEMİ VE YAT TASARIM KURSU",
+    "titleParams" : "RHINOCEROS-GEMİ-VE-YAT-TASARIM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/RHINOCEROS-GEM%C4%B0-VE-YAT-TASARIM-KURSU.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"RHINOCEROS GEMİ",
+    "AciklamaSection1Desc" :"Türkiye’de en uzun süre ve en kapsamlı rhinoceros eğitimi veren kurum olan üçüncü binyıl teknik eğitim akademisi farkı ile sizler de rhino kursu sonrasında profesyonel olarak programa hakim olabilirsiniz. Gemi ve Yat Tasarımı eğitimi sonunda sektörde aranan eleman olabilirsiniz. Rhinoceros, yüzey modelleme adına Endüstriyel tasarım yapabilen programdır. Nurbs tabanlı kullanılması kullanıcıların organik parçaları rahatlıkla tasarlamasına imkan tanımaktadır. Çoğu endüstriyel tasarımcının tercih ettiği programlardan biri Rhinoceros dur. Rhinoceros tasarımlarınıza elle çizilmiş tasarımlara bakarak, elde hazırlanmış maket modellerinize bakarak yada prototipi hazırlanmış model üzerinde Rhinoceros Nurbs yöntemlerinizi hayalinizle birleştirerek etkili tasarımlar çıkarmanıza yardım olan  bir 3d tasarım programıdır.",
+    "DersSaati" : "60 Saat",
+    "KursSuresi" :"2,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/rhinoceros-1.png",
+        "titleEgitimIcerigi" : "RHINOCEROS – 48 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu yüzey oluşturmayı ve çizim tekniklerini öğreneceksiniz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/v_ray-1.png",
+        "titleEgitimIcerigi" : "VRAY",
+        "descEgitimIcerigi" :"Rhino’nun 3D modelleme araçlarını pürüzsüz bir şekilde çalıştırabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/maxsurf-1.png",
+        "titleEgitimIcerigi" : "MAXSURF – 12 SAAT",
+        "descEgitimIcerigi" :"Çeneli hızlı tekne, yelkenli yat formlarının tasarımını yapabileceksiniz"
+      }
+    
+    ]
+  },
+  {
+    "id": 9,
+    "title": "MAKİNE SINIRSIZ EĞİTİM PAKETİ",
+    "titleParams" : "MAKİNE-SINIRSIZ-EĞİTİM-PAKETİ",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/s%C4%B1n%C4%B1rs%C4%B1z-makine-m%C3%BChendisli%C4%9Fi-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"MAKİNE SINIRSIZ EĞİTİM PAKETİ",
+    "AciklamaSection1Desc" :"Bir mühendis ya da teknik eleman tasarımdan analize, analizden imalata ya da gelen işin çeşidine göre her türlü sisteme ve yazılıma hakim olmalıdır. Bunu bildiğimizden dolayı Türkiye’de çok az kişinin sahip olduğu yazılımları tek bir paket olarak öğrencilerimize sunuyoruz. Eğitimimiz 17 tane programı kapsayıp 1500 saat sürmektedir.",
+    "DersSaati" : "1500 Saat",
+    "KursSuresi" :"-",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "SOLIDWORKS KURSU",
+    "titleParams" : "SOLIDWORKS-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/SOL%C4%B0DWORKS-KURSU-E%C4%9E%C4%B0T%C4%B0M%C4%B0.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS",
+    "AciklamaSection1Desc" :"Kursiyerlerimiz Solidworks kursu ile mühendislik tabanlı tasarımları, iki boyutlu çizimleri ve üç boyutlu modelleri hazırlayabileceklerdir. Kullanıcı dostu arayüzü sayesinde kolay ve hızlı kullanım sunan Solidworks ile bilgisayar destekli tasarım (CAD) yapmayı üst seviyede öğrenebileceklerdir. Eğitim içeriğimizde yer alan farklı modüller sayesinde çalışmak istediğiniz sektöre hazır bir şekilde eğitiminizi tamamlayacaksınız. Örneğin; sac metal tasarımı ve plastik kalıp tasarımı konusunda aldığınız içerik sayesinde piyasaya hazır hale geleceksiniz.",
+    "DersSaati" : "72 Saat",
+    "KursSuresi" :"3 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "CATIA KURSU",
+    "titleParams" : "CATIA-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/catia-kursu-e%C4%9Fitimi.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"CATIA",
+    "AciklamaSection1Desc" :"CATİA  (Computer Aided Three-Dimensional Interactive Application) hayal edebildiğiniz her nesneyi bilgisayar ortamında oluşturabildiğiniz bir CAD (Computer Aided Drafting) programıdır. Catia ilk olarak havacılık sektöründe ki ihtiyaçlardan doğduğu için, havacılık ve otomotiv sektörlerinde ağırlıklı olmak üzere endüstriyel tasarımlarınızda bütün ihtiyaçlarınızı karşılayacak bir programdır. Modüler yapısı sayesinde mühendislik alanında her sektöre yönelik çalışmalar yapabilmenize olanak sağlar. Sac metal, plastik kalıp, CNC (Computer Numerical Control) işleme, makine tasarımı, endüstriyel tasarım vb. alanda sektörel modülleri sayesinde alan çalışmaları yapabilirsiniz.",
+    "DersSaati" : "60 Saat",
+    "KursSuresi" :"2,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "SIEMENS NX (UNIGRAPHICS) KURSU",
+    "titleParams" : "SIEMENS-NX-UNIGRAPHICS-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/S%C4%B0EMENS-NX-E%C4%9E%C4%B0T%C4%B0M%C4%B0.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SIEMENS NX",
+    "AciklamaSection1Desc" :"Kavramsal tasarımdan 3 boyutlu tasarım ve dökümantasyona kadar bütün ürün geliştirme ihtiyaçlarınızı karşılayabilirsiniz. Multi-Disiplin Simülasyonlarla yapısal analiz, hareket analizi, termal analiz, akış analizi, multi-fizik uygulamaları gerçekleştirebilirsiniz Tam bir parça imalatı çözümü olarak, işleme, talaşlı imalat ve kalite kontrol operasyonlarınızı gerçekleştirebilirsiniz.",
+    "DersSaati" : "60 Saat",
+    "KursSuresi" :"2,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ANSYS KURSU",
+    "titleParams" : "ANSYS-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/ansys-kursu-e%C4%9Fitimi.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"TASARIM, ANALİZ ve İMALAT",
+    "AciklamaSection1Desc" :"Türkiye’de bu kadar tek kapsamlı eğitim olarak düzenlediğimiz eğitim paketindeki amacımız, bir mühendis ya da teknik eleman tasarımdan analize, analizden imalata ya da gelen işin çeşidine göre her türlü sisteme ve yazılıma hakim olmalıdır. Bunu bildiğimizden dolayı Türkiye’de çok az kişinin sahip olduğu yazılımları tek bir paket olarak öğrencilerimize sunuyoruz. Eğitimimiz 15 tane programı kapsayıp 720 saat sürmektedir.",
+    "DersSaati" : "720 Saat",
+    "KursSuresi" :"12-30 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "FLUENT CFD KURSU",
+    "titleParams" : "FLUENT-CFD-KURSU", 
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/ansys-fluent-cfd-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"FLUENT CFD",
+    "AciklamaSection1Desc" :"Ansys Fluent programı akış içeren tüm mühendislik alanlarında kullanılan gelişmiş akışkanlar dinamiği hesaplamaları yapabilen modüle sahiptir. Dünya üzerinde uçak, gemi ve otomobil gibi taşıtların hava ve su ortamında analizinin yapılması için kullanılan Ansys Fluent , bir akışkan gibi hareket eden sayısal ağların oluşturulması ve analizlerinin yapılması ile kapsamlı bir akış simülasyonu sağlar. Ansys Fluent yazılımı, endüstriyel uygulamalar için akış, türbülans, ısı transferi ve reaksiyonları modellemek için gereken geniş, fiziksel modelleme yeteneklerini içerir. Bunlar, bir uçak kanadı üzerindeki hava akışından bir fırında yanmaya, kabarcık kolonlarından yağ platformlarına, kan akışından yarı iletken üretimine ve temiz oda tasarımından atık su arıtma tesislerine kadar değişir. Akıcı, silindir içi yanma, aerodinamik ,akustik, turbo makine ve çok fazlı sistemleri modelleme yeteneklerine sahip özel modeller de dahil olmak üzere geniş bir yelpazeyi kapsar.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "3D EXPERIENCE SOLIDWORKS KURSU",
+    "titleParams" : "3D-EXPERIENCE-SOLIDWORKS-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/09/3d-experience-solidworks-_-1.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"3D EXPERIENCE",
+    "AciklamaSection1Desc" :"CAD verilerinizi 3DEXPERIENCE bulut ortamında erişilebilir hale getirirken projedeki tasarımlarınızı doğrudan SOLIDWORKS masaüstünden yönetin. 3DEXPERIENCE çözümlerini kullanarak SOLIDWORKS tasarımlarınızı istediğiniz zaman istediğiniz yerden istediğiniz cihazdan şirket çalışanları/ilgili kişiler ile paylaşabilirsiniz. 3DEXPERIENCE Platformda sezgisel ve organik parametrelerle endüstriyel tasarımcıların ve mühendislerin geleneksel parametrik araçlardan daha hızlı ve daha kolay tasarımlar yapabilir.",
+    "DersSaati" : "72 Saat",
+    "KursSuresi" :"3 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "MATLAB VE SIMULINK KURSU",
+    "titleParams" : "MATLAB-VE-SIMULINK-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/matlab-simulink-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"MATLAB VE SIMULINK",
+    "AciklamaSection1Desc" :"Üçüncü Binyıl Eğitim Akademisi 15 yıldır Türkiye’de matlab kursları içerisinde en iyi Matlab kursu denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu eşliğinde ve Avrupa standartlarında Matlab’ı sıfırdan başlayarak zorlanmadan öğrenin.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "MEKATRONİK MÜHENDİSLİĞİ KURSU",
+    "titleParams" : "MEKATRONİK-MÜHENDİSLİĞİ-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/mekatronik-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"MEKATRONİK MÜHENDİSLİĞİ",
+    "AciklamaSection1Desc" :"El aletlerini kullanarak mekanizmaları yapma yeteneğinin kazandırıldığı eğitim materyalidir. mekatronik sistemler eğitiminin genel amacı mekanizmaların hareket tipine göre kuvvet ve moment analizini yapabilecek, elektronik ile mekaniği birleştirebileceksiniz. Mekatronik Uzmanlık Programı, endüstrinin beklentileri dikkate alınarak tasarlanmıştır. Bu Program katılımcılara gerekli olan teorik ve pratik bilgileri kazandırarak onların profesyonel yaşamda ihtiyaç duydukları bilgi, beceri ve yetkinliği sağlamaktadır.",
+    "DersSaati" : "348 Saat",
+    "KursSuresi" :"14,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "POWERMILL KURSU",
+    "titleParams" : "POWERMILL-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/powermill-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"POWERMILL",
+    "AciklamaSection1Desc" :"Powermill CNC makinalarında gelişmiş işleme yöntemleri sunan ileri işleme teknolojilerine sahip ve tüm sektörel yetenekleri ile sektöründe lider CAM işleme programıdır. Bu POWERMILL kursunda profesyonel eğitmen eşliğinde gerçek işleme yapısına dayanan hızlı pratik ve ileri seviye kullanıma olacaksınız. PowerMill kursu sizin plastik kalıp, kesme vb. tüm kalıp işleme, makine parçası ve havacılık yada savunma sanayi gibi teknik sektör çözümleri sunmanızı ve bu alacağınız eğitim ile çok kısa bir sürede olacağını belirler.",
+    "DersSaati" : "36 Saat",
+    "KursSuresi" :"1,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      }
+
+    ]
+  },
+  {
+    "id": 19,
+    "title": "3D EXPERIENCE CATIA KURSU",
+    "titleParams" : "3D-EXPERIENCE-CATIA-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/09/3d-experience-CATIA-_-1.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"3DEXPERIENCE CATIA",
+    "AciklamaSection1Desc" :"3DEXPERIENCE Dassault Systemes’in PLM çözümlerini sunduğu bir platformdur. Endüstriyel Tasarım, Mühendislik Tasarımları CATIA, Analiz SIMULIA, İmalat Süreçleri DELMIA Data, BOM, Proje ve Süreç Yönetimi ENOVIA ve daha birçok konuda özelleşmiş Dassault Systemes programlarına tek bir arayüz üzerinden ulaşılmasına imkân sağlar. 3DEXPERIENCE platformundaki tasarım rolleri, güçlü 2D ve 3D modelleme yeteneklerini birleşir, CATIA ile iki boyutlu çizimlerinizi ve üç boyutlu karmaşık modellerinizi hızlı ve güvenilir şekilde hazırlayabilirsiniz. Havacılık, savunma sanayi ve otomobil sektöründe yaygın olarak kullanılan CATIA mühendislik olarak tasarımdan üretime kadar geçen süreçte (tasarım, montaj, yapısal analiz, cam) bilgisayar ortamında simülasyon imkânı sunar.",
+    "DersSaati" : "72 Saat",
+    "KursSuresi" :"3 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "3D EXPERIENCE SIMULIA KURSU",
+    "titleParams" : "3D-EXPERIENCE-SIMULIA-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/09/3d-experience-simulia-_-3.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"3D EXPERIENCE SIMULIA",
+    "AciklamaSection1Desc" :"3DEXPERIENCE platformu ile, benzetim uygulamaları kurumsal platforma taşınarak, kullanıcıların aynı veri tabanı içinde çok geniş benzetim uygulamalarını kullanma ve diğer kullanıcılarla paylaşma imkânı tanır. Böylelikle çok detaylı ve karmaşık benzetimlerin, birçok mühendisi içene alacak bir ortamda en etkin ve ekonomik bir şekilde gerçekleştirilmesine yardımcı olur. Günümüzde müşteriler, gereksinimlerden tasarıma, mühendisliğe, üretime ve mülkiyete kadar yüksek değerli uçtan uca endüstri süreçlerinin bir parçası olarak en karmaşık simülasyon modellerini oluşturmak ve yürütmek için genişletilmiş ekiplerin oluşturulmasını sağlamak için kurumsal ve grup çapında araçlar talep ediyor. 3DEXPERIENCE SIMULIA, simülasyonu dikey mühendislik işlevinden kurum genelinde yatay bir iş sürecine taşıyan, günümüzde bu ihtiyacı desteklemek için mevcut olan tek yetenek paketidir.  Tasarımcı/Mühendis için 3DEXPERIENCE SIMULIA, tasarım ortamında çalışmak isteyen, ancak erken tasarım kararlarını iyileştirmek için simülasyonun değerinden faydalanan ara sıra simülasyon kullanıcıları için tasarlanmış, genişletilmiş bir Şirket İçi ve Bulut Üzerinde simülasyon rolleri portföyü sunar.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "SOLIDWORKS/CATIA İLE YERLİ OTOMOBİL TOGG TASARIM KURSU",
+    "titleParams" : "SOLIDWORKS-CATIA-İLE-YERLİ-OTOMOBİL-TOGG-TASARIM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/togg-kursu-%C3%BC%C3%A7%C3%BCnc%C3%BC-biny%C4%B1l.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS / CATIA İLE YERLİ OTOMOBİL TOGG TASARIM",
+    "AciklamaSection1Desc" :"Üçüncü Binyıl’ın özel eğitimlerinden biri olan araç tasarım kursu için yerli arabamız TOGG un SUV modelini kursiyerlerimiz ile birlikte hazırlayacağız. Eğitim boyunca otomobil tasarımında dikkat edilmesi gereken mühendislik sınırlamaları ve teknik sınırlamaların neler olduğunu öğreneceksiniz. Otomobil tasarımı nasıl başlar, tasarım yöntemleri nelerdir, üretim teknikleri nelerdir, yapılan tasarımlar üretime uygun mu, aerodinamik yapı uygun mu vb. konuya yanıt bulacağız. İleri düzey yüzey modelleme tekniklerinin kullanıldığı eğitim içeriğimizde yüzey oluşturma teknikleri, blueprint tekniği gibi teknikleri üst seviyede kullanarak hem programa hakim olacaksınız hem de yöntemlere hakim olacaksınız.  İleri düzey yüzey modelleme tekniklerini kullanarak oluşturacağımız modeller de yüzeylerin uygunluğuna, yüzey kalitesine ve yüzey kalitesinin nasıl arttırılacağına müdahale edebileceğiz. Yüzeyleri oluşturmak için iki boyutlu ve üç boyutlu eğrilerin nasıl hazırlanması gerektiğini, yapılan hatalarda nasıl düzenlemeler yapılacağını ve kayıt yöntemlerini detaylı bir şekilde öğreneceğiz. Eğitim içeriğinde kullanacağımız modüller ile hazırlanan modellerin montajını ve  kinematik uygulamalarını da öğreneceğiz. Solidworks veya Catia programlarından birinde alacağınız eğitim sonunda hem program kullanımında ileri seviyeye hem de özel alan olarak otomobil tasarımında ileri seviyeye ulaşacaksınız.",
+    "DersSaati" : "60 Saat",
+    "KursSuresi" :"2,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "SIEMENS NX İLE PLASTİK KALIP TASARIM KURSU",
+    "titleParams" : "SIEMENS-NX-İLE-PLASTİK-KALIP-TASARIM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/siemens-nx-kal%C4%B1p-tasar%C4%B1m-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SIEMENS NX İLE PLASTİK KALIP",
+    "AciklamaSection1Desc" :"Türkiye’de ilk defa Plastik Enjeksiyon Kalıp Tasarım Mühendisliği Eğitimi düzenleyen kurumumuzdaki eğitimleri tamamlayan öğrencilerimiz, bütün kalıp sistemlerinin bizzat tasarımlarını yaparak uygulamalı bir şekilde, Alman ve Amerikan Teknolojisi ile teknik ve mühendislik hesapları kullanarak, en ince ayrıntısına kadar onlarca kalıp sistemi tasarlayıp, 7,5 ay sonunda çok üst seviyeye gelirler. Plastik Enjeksiyon Kalıp Tasarım Mühendisliği kursu, bu işle ilgilenen ve bu konuda kendini geliştirmek isteyen herkese inanılmaz bir eğitim olanağı sunuyor.",
+    "DersSaati" : "170 Saat",
+    "KursSuresi" :"7 Ay",
+    "AciklamaEgitimIcerigi" : [
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "ABAQUS KURSU",
+    "titleParams" : "ABAQUS-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/abaqus-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"ABAQUST",
+    "AciklamaSection1Desc" :"Üçüncü Binyıl Teknik Eğitim Akademisi 15 yıldır Türkiye’de Abaqus eğitimi denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu ve Workstation bilgisayarlarıyla öğrenciler için en iyi eğitim ortamını sunmaktadır.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "SIEMENS NX İLE PROGRASIV SAC KALIP TASARIM KURSU",
+    "titleParams" : "SIEMENS-NX-İLE-PROGRASIV-SAC-KALIP-TASARIM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/siemens-nx-progressive-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"Sac metal kalıpçılığının güncel önemini açıklamak. Günümüzde sac metal kalıpçılığında kullanılan standart kalıp elemanlarını tanıtmak. Sırasıyla Kesme, Bükme, Çekme Kalıpları ve Progresif Kalıplara ait hesapları ve boyutlandırılmasını yapmayı öğretmek. Ekonomik kalıplama önerilerinde bulunmak. Kalıp imalatında kullanılan malzemelerinin ve sertlik değerlerinin tespitini yapabilmek. Pres seçimini ve kalıp ayarlarını yapabilmeyi öğretmek",
+    "DersSaati" : "170 Saat",
+    "KursSuresi" :"7 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "3D EXPERIENCE KURSU",
+    "titleParams" : "3D-EXPERIENCE-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/09/3d-experience-simulia-_-1.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"3DEXPERIENCE CATIA",
+    "AciklamaSection1Desc" :"3DEXPERIENCE Dassault Systemes’in PLM çözümlerini sunduğu bir platformdur. Endüstriyel Tasarım, Mühendislik Tasarımları CATIA, Analiz SIMULIA, İmalat Süreçleri DELMIA Data, BOM, Proje ve Süreç Yönetimi ENOVIA ve daha birçok konuda özelleşmiş Dassault Systemes programlarına tek bir arayüz üzerinden ulaşılmasına imkân sağlar. 3DEXPERIENCE platformundaki tasarım rolleri, güçlü 2D ve 3D modelleme yeteneklerini birleşir, CATIA ile iki boyutlu çizimlerinizi ve üç boyutlu karmaşık modellerinizi hızlı ve güvenilir şekilde hazırlayabilirsiniz. Havacılık, savunma sanayi ve otomobil sektöründe yaygın olarak kullanılan CATIA mühendislik olarak tasarımdan üretime kadar geçen süreçte (tasarım, montaj, yapısal analiz, cam) bilgisayar ortamında simülasyon imkânı sunar.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "AUTOCAD KURSU",
+    "titleParams" : "AUTOCAD-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/autocad.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"AUTOCAD",
+    "AciklamaSection1Desc" :"AutoCAD dünyadaki ilk vektörel çizim yapan ve geliştirilebilen CAD programlarından birisidir. Uzun yıllar sorunlara ve eksiklere yönelik geliştirilerek hem yaygın hem de kullanışlı hale gelmiştir. Mimarlık, mekanik, elektrik, tesisat gibi birçok alanda vektörel çizim yapma amacı ile yaygın olarak kullanılmaktadır.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "REVIT MEP KURSU",
+    "titleParams" : "REVIT-MEP-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/revit-mep-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"REVIT MAP",
+    "AciklamaSection1Desc" :"Revit Mep Kursu , Autodesk’in Yapı Bilgi Sistemi (BIM) teknolojisini destekleyen mimari yazılımıdır. Kütlesel tasarım, metraj, detaylandırma ve görselleştirme için güçlü araçlar sunar. Duvar, kapı, pencere, merdiven gibi akıllı mimari modelleme elamanlarıyla çalışır. Parametrik yazılım sistemini esas alır. Bu, bir defa girilen bir verinin tüm proje sürecinde korunması ve istenildiğinde tekrar kullanılabilmesi anlamına gelir.",
+    "DersSaati" : "24 Saat",
+    "KursSuresi" :"1 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 24 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "DIALUX KURSU",
+    "titleParams" : "DIALUX-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/dialux-ayd%C4%B1nlatma-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"DIALUX",
+    "AciklamaSection1Desc" :"Dialux, DIAL Gmb firması tarafından geliştirilmiş, amatör veya profesyonel tüm aydınlatma tasarımcılarının kullanımına ve tüm armatür üreticilerine açık ücretsiz ve limitsiz bir programdır. Dünya çapında yüzbinlerce aydınlatma tasarımcısı tarafından sıklıkla kullanılmaktadır. Üçüncü Binyıl Teknik Eğitim Akademisi 15 yıldır Türkiye’de Dialux Eğitimi denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu ve Workstation bilgisayarlarıyla öğrenciler için en iyi eğitim ortamını sunmaktadır. ÜÇÜNCÜ BİNYIL Dialux Kursu Toplam 24 saattir.",
+    "DersSaati" : "24 Saat",
+    "KursSuresi" :"1 Ay",
+    "AciklamaEgitimIcerigi" : [
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "NAVISWORKS KURSU",
+    "titleParams" : "NAVISWORKS-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/navisworks.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"NAVISWORKS",
+    "AciklamaSection1Desc" :"Powermill CNC makinalarında gelişmiş işleme yöntemleri sunan ileri işleme teknolojilerine sahip ve tüm sektörel yetenekleri ile sektöründe lider CAM işleme programıdır. Bu POWERMILL kursunda profesyonel eğitmen eşliğinde gerçek işleme yapısına dayanan hızlı pratik ve ileri seviye kullanıma olacaksınız. PowerMill kursu sizin plastik kalıp, kesme vb. tüm kalıp işleme, makine parçası ve havacılık yada savunma sanayi gibi teknik sektör çözümleri sunmanızı ve bu alacağınız eğitim ile çok kısa bir sürede olacağını belirler.",
+    "DersSaati" : "30 Saat",
+    "KursSuresi" :"1,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      }
+     
+    ]
+  },
+  {
+    "id": 30,
+    "title": "AUTODESK FUSION 360 KURSU",
+    "titleParams" : "AUTODESK-FUSION-360-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/revit-mep-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"AUTODESK FUSION 360",
+    "AciklamaSection1Desc" :"Autodesk Fusion 360 Kursu Eğitimi Teknik eğitimlerde uzman eğitmen kadrosu ile sizleri Autodesk Fusion 360 Kursuna bekliyoruz. 3 boyutlu modelleme temelleri, teknik resim eğitimi, çizim ve düzenleme komutları, katmanlar ve daha birçok konu Autodesk Fusion 360 Kursunda sizi bekliyor. Eğitim sonunda yaptığınız proje ile bilginizi kanıtlayacaksınız. Türkiye’de en uzun süre ve en kapsamlı Fusion eğitimi veren kurum olan üçüncü binyıl teknik eğitim akademisi farkı ile sizler de fusion 360 kursu sonrasında profesyonel olarak programa hakim olabilirsiniz",
+    "DersSaati" : "36 Saat",
+    "KursSuresi" :"1,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "INVENTOR KURSU",
+    "titleParams" : "INVENTOR-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/inventor-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"INVENTOR",
+    "AciklamaSection1Desc" :"Autodesk Inventor tasarım sürecini hızlandırmak, veri yönetimini basitleştirmek Autodesk İnventor Egitimi ve ürün geliştirme maliyetlerini düşürmek için mekanik tasarımcılara yönelik çözümler sunuyor. 3 boyutlu tasarım teknolojisinde en son aşama olan Autodesk Inventor‘un yeni sürümü ürünlerin pazara daha hızlı çıkmasını sağlayan ve maliyeti azaltan yeni özellikler ve geliştirmeler ile sunulmaktadır. Autodesk Inventor makine mühendisliği ve mekanik tasarım için süreci hızlandıran, veri yönetimini basitleştiren ve ürünlerinizin tasarımında kolaylıklar sağlayan yüksek performans özellikleri sunuyor.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+    
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "MOLDFLOW İLE KALIP ANALİZİ KURSU",
+    "titleParams" : "MOLDFLOW-İLE-KALIP-ANALİZİ-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/moldflow-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"MOLDFLOW İLE KALIP ANALİZİ",
+    "AciklamaSection1Desc" :"Kalıp mühendisliği alanında imalat sürecinizi hızlandırarak moldflow analizi sayesinde kalıp dolum analizlerini, akış simülasyonunu ve kalıp tasarımlarının optimizasyonunu yapabileceksiniz.",
+    "DersSaati" : "24 Saat",
+    "KursSuresi" :"1 Ay",
+    "AciklamaEgitimIcerigi" : [
+    
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "PRO ENGINEER CREO KURSU",
+    "titleParams" : "PRO-ENGINEER-CREO-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/pro-engineer-creo-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"PRO ENGINEER CREO",
+    "AciklamaSection1Desc" :"Üçüncü Binyıl Teknik Eğitim Akademisi 15 yıldır Türkiye’de Pro Engineer eğitimi denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu ve Workstation bilgisayarlarıyla öğrenciler için en iyi eğitim ortamını sunmaktadır. Pro/ENGINEER tek veri tabanına dayanan, parametrik, modüler ve süreç odaklı bir PLM sistemidir. Her türlü tasarım ve ürün geliştirme süreçlerinde, makina imalat, kalıp, beyaz eşya, otomotiv, tarım aletleri, gemi inşaat, elektrik/elektronik, tıbbi ürünler, telekom, ev aletleri, madeni eşya, ısıtma ve soğutma gibi imalat sektörlerin her türlü tasarım ve ürün geliştirme süreçlerinde AR-GE kurumlarında kullanılan bir yazılımdır",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      }
+     
+    ]
+  },
+  {
+    "id": 34,
+    "title": "TEKLA STRUCTURE KURSU",
+    "titleParams" : "TEKLA-STRUCTURE-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/08/tekla-structure-e%C4%9Fitimleri.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"TEKLA STRUCTURE",
+    "AciklamaSection1Desc" :"Tekla Structures (X-Steel) Yapısal Çelik Mühendisleri ve tasarımcıları tarafından kullanılan Türkiye’ deki en önemli mühendislik programlarından biridir. X-Steel (güncel adı ile Tekla Structures), inşaat ve yapı endüstrisinde özellikle çelik konstrüksiyon ve betonarme projeleri için kullanılan, projelerde oldukça detaylandırma fırsatı sunan bir 3B Yapı Bilgisi Modelleme (BIM) yazılımıdır. X-Steel , kullanıcılara beton veya çelik 3B yapısal modeller oluşturmada ve yönetmede, konsept aşamasından imalata kadar olan süreçte rehberlik eder. Bu sayede X-Steel ile tasarım gerçeğe dönüştürülür. Steel ile her çeşit materyalden her çeşit yapı modellenebilir veya tek bir modelde çeşitli materyaller barındırabilir. Tekla Open API sayesinde, dosya transferi yoluyla çeşitli analiz ve tasarım paketleriyle iletişim Bu şekilde çizimciler ile mühendislerin aynı proje modeli üzerinde çalışması, dolayısıyla da etkin raporlama ve değişim yönetimi mümkün kılınır.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      }
+  
+    ]
+  },
+  {
+    "id": 35,
+    "title": "SOLIDWORKS SIMULATION KURSU",
+    "titleParams" : "SOLIDWORKS-SIMULATION-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/solidworks-simulation-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS SIMULATION",
+    "AciklamaSection1Desc" :"Solidworks Simulation Solidworks içinde çalışan FEA programıdır. Solidworks Simulation uzun zamandır sonlu elemanlar analizlerinde sıkça kullanılan bir çözücüdür. Eski adı COSMOS olan Solidworks Simulation 2001 yılından beri Solidworks grubu içine katılmıştır. Solidworks Simulation ile statik, hareket, belverme, frekans, yorulma, dinamik ve non-lineer malzeme analizleri yapılabilir. Solidworks Simulation yazılımı bu gün dünya genelinde BPG Werks, Schubert Paketleme Makinaları ve Frank Muller gibi dünyaca ünlü firmalar tarafında kullanılmaktadır. Solidworks Simulation kolay ara yüzü ve öğrenim çevrimi ile Tasarımcılara ve Mühendislere yüksek oranda olanak sağlamaktadır",
+    "DersSaati" : "24 Saat",
+    "KursSuresi" :"1 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      }
+    
+    ]
+  },
+  {
+    "id": 36,
+    "title": "SOLIDWORKS FLOW SIMULATION KURSU",
+    "titleParams" : "SOLIDWORKS-FLOW-SIMULATION-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/solidworks-flow-simulation-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS FLOW SIMULATION",
+    "AciklamaSection1Desc" :"Türkiye’de en uzun süre ve en kapsamlı Solidworks Flow Simulation eğitimi veren kurum olan üçüncü binyıl teknik eğitim akademisi farkı ile sizler de Solidworks Flow Simulation kursu sonrasında profesyonel olarak programa hakim olabilirsiniz. 18 Saatlik en uzun süreli eğitim farkı.",
+    "DersSaati" : "18 Saat",
+    "KursSuresi" :"3 Hafta",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      }
+  
+    ]
+  },
+  {
+    "id": 37,
+    "title": "SOLIDWORKS MOTION SIMULATION KURSU",
+    "titleParams" : "SOLIDWORKS-MOTION-SIMULATION-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/solidworks-motion-simulation-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS MOTION SIMULATION",
+    "AciklamaSection1Desc" :"Solidworks MOTION Simulation, Solidworks içinde çalışan FEA programıdır. Solidworks MOTION Simulation uzun zamandır sonlu elemanlar analizlerinde sıkça kullanılan bir çözücüdür. Eski adı COSMOS olan Solidworks MOTION Simulation 2001 yılından beri Solidworks grubu içine katılmıştır. Solidworks MOTION Simulation ile statik, hareket, belverme, frekans, yorulma, dinamik ve non-lineer malzeme analizleri yapılabilir. Solidworks MOTION Simulation yazılımı bu gün dünya genelinde BPG Werks, Schubert Paketleme Makinaları ve Frank Muller gibi dünyaca ünlü firmalar tarafında kullanılmaktadır. Solidworks MOTION Simulation kolay ara yüzü ve öğrenim çevrimi ile Tasarımcılara ve Mühendislere yüksek oranda olanak sağlamaktadır",
+    "DersSaati" : "18 Saat",
+    "KursSuresi" :"3 Hafta",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/fusion-360.png",
+        "titleEgitimIcerigi" : "FUSION 360 – 36 SAAT",
+        "descEgitimIcerigi" :"3 boyutlu modeller yapabilecek ve bu modelleri teste sokabileceksiniz."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-20.png",
+        "titleEgitimIcerigi" : "CATIA ile TOGG – 72 SAAT",
+        "descEgitimIcerigi" :"72 saatlik eğitimle yerli otomobil TOGG tasarlamayı öğrenin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "ARDUINO ROBOT PROGRAMLAMA KURSU",
+    "titleParams" : "ARDUINO-ROBOT-PROGRAMLAMA-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/ARDU%C4%B0NO-KURSU.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"ARDUINO ROBOT PROGRAMLAMA",
+    "AciklamaSection1Desc" :"Arduino kolay kullanılabilir ve esnek bir yazılım/donanım mimarisine sahip, açık kaynak (open source) ailesine mensup bir elektronik geliştirme kartıdır. Bilgisayar üzerinde çalışan yazılımlarda da kullanılabilir. örneğin Macromedia Flash, Processing, Max/MSP ve birçok yazılıma bağlayabilir ve özgürce geliştirmeler yapabilirsiniz. Arduino kartlarının donanımında bir adet Atmel AVR mikrodenetleyici (ATmega328, ATmega2560 vb) , programlamayabilmek ve diğer devrelerle bağlantı kurabilmek için elemanlar bulunur. Platformdan bağımsız bir şekilde çalışabilirsiniz. Linux ya da Windows ta özgürce projelerinizi geliştirebilirsiniz.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "MAXSURF KURSU",
+    "titleParams" : "MAXSURF-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/maxsurf-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"MAXSURF",
+    "AciklamaSection1Desc" :"Biz Maxsurf kursumuzda bu eğitimi verirken; katılımcıların programın dilini anlamasını ve dolayısıyla programla kullanıcı arasında bir bağ oluşturmayı amaçlarız. Maxsurf kursumuzda Maxsurf‘i akıcı ve detaylı bir şekilde öğrettiğimiz için de uzun vadede çok hızlı çizim yapabilecek kabiliyete ulaşmak ve yeni çıkan sürümlerde zorlanmadan çalışmak mümkün olmaktadır.",
+    "DersSaati" : "12 Saat",
+    "KursSuresi" :"2 Hafta",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "RAPID FORM TERSİNE MÜHENDİSLİK KURSU",
+    "titleParams" : "RAPID-FORM-TERSİNE-MÜHENDİSLİK-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/rapidform-tersine-m%C3%BChendislik-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"RAPİDFORM TERSİNE",
+    "AciklamaSection1Desc" :"Bilgisayar destekli tasarım (CAD) daha popüler hale geldikçe, tersine mühendislik, 3D bilgisayar destekli tasarım (CAD), bilgisayar destekli üretim (CAM), bilgisayar destekli mühendislik (CAE) ve diğer yazılımlarda kullanılmak üzere, varolan parçaların üç boyutlu sanal modellerinin yaratılması için kullanılabilir bir metod haline gelmiştir. Tersine mühendislik işlemi bir objenin ölçümünü ve ardından üç boyutlu model olarak oluşturulmasını içerir.Fiziksel objenin boyutları, koordinat ölçme makinesi (Coordinat measuring machine, CMM), üç boyutlu üçgenli lazer tarayıcılar, üç boyutlu yapısal ışık sayısallaştırıcılı tarayıcı veya bilgisayarlı tomografi gibi üç boyutlu tarama teknolojileri kullanılarak ölçülebilir. Genellikle bir nokta bulutu olarak temsil edilen Ölçülmüş veri kendi başına, topolojik bilgi eksikliği taşır ve bu yüzden sıklıkla, üçgen kaplı ağ veya bir CAD modeli gibi daha kullanışlı bir formata dönüştürülür. Imageware Rapidform veya Geomagic gibi uygulamalar nokta bulutlarını; 3D CAD, CAM, CAE gibi uygulamalarda veya görselleştirmede kullanılabilecek formatlara dönüştürür",
+    "DersSaati" : "36 Saat",
+    "KursSuresi" :"1,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "AUTODESK ALIAS KURSU",
+    "titleParams" : "AUTODESK-ALIAS-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/autodesk-alias-araba-modelleme-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"ALİAS",
+    "AciklamaSection1Desc" :"Türkiye‘nin en eski en profesyonel en yoğun içeriğe sahip alias kursu ile alias uzmanı olmak artık sizler için hayal değil",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+    
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      }
+
+    ]
+  },
+  {
+    "id": 42,
+    "title": "AUTOCAD PLANT 3D TESİS TASARIMI",
+    "titleParams" : "AUTOCAD-PLANT-3D-TESİS-TASARIMI",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/autocad-plant-3d-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"AUTOCAD PLANT 3D",
+    "AciklamaSection1Desc" :"AutoCAD Plant 3D Kursu ile Kapsamlı AutoCAD tesis tasarımı ve düzen araç seti ile proses tesisleri tasarım, modellemesi ve dokümantasyonu işlemleri gerçekleştirebilirsini",
+    "DersSaati" : "24 Saat",
+    "KursSuresi" :"1 Ay",
+    "AciklamaEgitimIcerigi" : [
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx.png",
+        "titleEgitimIcerigi" : "SIEMENS NX – 60 SAAT",
+        "descEgitimIcerigi" :"Türkiye’deki en kapsamlı müfredatla NX uzmanı ol."
+      }
+    
+    ]
+  },
+  {
+    "id": 43,
+    "title": "SOLIDWORKS PLASTICS İLE KALIP ANALİZİ KURSU",
+    "titleParams" : "SOLIDWORKS-PLASTICS-İLE-KALIP-ANALİZİ-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/solidworks-plastics-ile-kal%C4%B1p-analiz-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDWORKS PLASTICS İLE KALIP ANALİZİ",
+    "AciklamaSection1Desc" :"Türkiye’de ilk defa Solidworks Plastics ile Kalıp Analizi Kursu düzenleyen kurumumuzdaki eğitimleri tamamlayan öğrencilerimiz, bütün kalıp sistemlerinin bizzat tasarımlarını yaparak uygulamalı bir şekilde, Alman ve Amerikan Teknolojisi ile teknik ve mühendislik hesapları kullanarak, en ince ayrıntısına kadar onlarca kalıp sistemi tasarlayıp, 1 ay sonunda çok üst seviyeye gelirler. Solidworks Plastics ile Kalıp Analizi Kursu, bu işle ilgilenen ve bu konuda kendini geliştirmek isteyen herkese inanılmaz bir eğitim olanağı sunuyor. Sektörde kalıp imalatı ve tasarımı yapan kişiler eğitimlerimize katıldıklarında ise, artık su kanallarını, yolluk çaplarını, malzeme seçimlerini, plaka kalınlıklarını ezbere yapmayacak, bunlarla ilgili matematiksel hesaplamaları öğrenip en optimum kalıp tasarımlarını yapar hale gelerek tasarımlarında artık yardıma ihtiyaç duymayacaklar. Ayrıca sadece bir veya birkaç sektöre çalışan kişiler, cıgıl, şanzımanlı sistemler gibi ileri modellemeleri de yapar hale gelir.",
+    "DersSaati" : "24 Saat",
+    "KursSuresi" :"1 Ay",
+    "AciklamaEgitimIcerigi" : [
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "SOLIDCAM KURSU",
+    "titleParams" : "SOLIDCAM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/solidcam-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SOLIDCAM",
+    "AciklamaSection1Desc" :"SolidCam Kursu, Cad’i kullanan fakat Cam’i bilmeyen kişiler için oluşturulmuş imalata yönelik bir eğitim programıdır. Cam’in bütün modüllerini göreceğiniz. İmalat aşamasına kadar cam imalat yönetimi ile karşılaşacağınız bütün zorluklar uygulamalı simülasyonlu bir şekilde anlatılacaktır. CamWorks de 2,5 Eksen Takım yolları, 3 Eksen takım yolları, 5 Eksen takım yolları, Torna takım yolları ve Tel erozyon takım yolu ile kodların CNC ye nasıl gönderileceği de anlatılacaktır.",
+    "DersSaati" : "30 Saat",
+    "KursSuresi" :"1 Ay",
+    "AciklamaEgitimIcerigi" : [
+     
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "MASTERCAM KURSU",
+    "titleParams" : "MASTERCAM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/MASTERCAM-E%C4%9E%C4%B0T%C4%B0M%C4%B0.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"MASTERCAM",
+    "AciklamaSection1Desc" :"Üçüncü Binyıl Eğitim Akademisi 15 yıldır Türkiye’de en iyi MasterCAM kursu denince akla gelen en güvenilir ve köklü kurumdur. Siz de sektör tecrübeli ve uzman eğitmen eşliğinde ve Avrupa standartlarında MasterCAM’i sıfırdan başlayarak zorlanmadan öğrenin. Tam kapsamlı ve Sertifikalı MasterCAM derslerini uzmanlık seviyesinde öğrenin, profesyonelce kullanın.",
+    "DersSaati" : "36 Saat",
+    "KursSuresi" :"1,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "ARTCAM KURSU",
+    "titleParams" : "ARTCAM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/artcam_kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"ARTCAM TAKI TASARIM",
+    "AciklamaSection1Desc" :"Üçüncü Binyıl Teknik Eğitim Akademisi 15 yıldır Türkiye’de Takı Tasarım eğitimi denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu ve Workstation bilgisayarlarıyla öğrenciler için en iyi eğitim ortamını sunmaktadır. Aksesuar, Kuyumculuk ve Takı Tasarımcılarının bu eğitime katılarak, uzmanlık alanlarını pekiştirip, kendilerini tüm takı sektöründe çalışabilecek seviyeye getirebilirler.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      }
+    
+    ]
+  },
+  {
+    "id": 47,
+    "title": "SIEMENS NX CAM KURSU",
+    "titleParams" : "SIEMENS-NX-CAM-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/siemens-nx-cam-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"SIEMENS NX CAM",
+    "AciklamaSection1Desc" :"Şimdinin ve geleceğin en popüler mesleklerinden biri olan NX CAM eğitimi, kurumumuzda sektörün içerisiden gelen eğitmenlerimiz tarafından verilmektedir. İmalat sektörunde teoride çok şey bilmek bir şey ifade etmiyor. Çünkü teoride gösterilen bazı işlemler gerçek hayatta hiçbir zaman gerçekleşmeyecek şekilde olabiliyor. Üçüncü Binyıl Teknik Akademi olarak sizlere sektörde uzmanlaşmış eğitmenler tarafından, sektörde gerçekleştireceğiniz uygulamaların eğitimini vermekteyiz. Siemens NX; kalite, hassasiyet ve imalat verimliliğinin oldukça yüksek öneme sahip olduğu büyük veya karmaşık parçaların işlenmesinde olağanüstü bir başarı gösteren gelişmiş bir CAM yazılımıdır.",
+    "DersSaati" : "36 Saat",
+    "KursSuresi" :"1,5 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience-simulia.png",
+        "titleEgitimIcerigi" : "SIMULIA – 48 SAAT",
+        "descEgitimIcerigi" :"Analiz yaparak modelde bulunan bileşenlere hakimiyet sağlayın."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Fluent-CFD.png",
+        "titleEgitimIcerigi" : "ANSYS FLUENT – 48 SAAT",
+        "descEgitimIcerigi" :"Isı ve akış analiz konularına tam hakimiyet. CFD uzmanı ol."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "CNC PROGRAMLAMA EĞİTİMİ",
+    "titleParams" : "CNC-PROGRAMLAMA-EĞİTİMİ",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/cnc-programlama-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"CNC PROGRAMLAMA",
+    "AciklamaSection1Desc" :"CNC Operatörü geniş anlamda kullanılan bir terimdir. CNC Freze, CNC Torna, CNC Tel Erozyon vs. alt dalları vardır. CNC Operatörlerinin tezgahları programlamayı da bilmeleri gerekir, Günümüzde CAD CAM programlarının becerisinin artmasıyla ve otomasyon sistemiyle CNC Operatörlerinin CAD CAM Programlarını bilmelride kendilerine büyük fayda sağlamaktadır.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Ansys.png",
+        "titleEgitimIcerigi" : "ANSYS – 48 SAAT",
+        "descEgitimIcerigi" :"Mühendislik artık analiz demek. Yapısal ve mekanik analizde uzman ol."
+      },
+   
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Layer-15.png",
+        "titleEgitimIcerigi" : "POWERMILL – 36 SAAT",
+        "descEgitimIcerigi" :"Modelleme Programlarıyla parçanın CAM olarak üretilmesini sağlamaktır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/Vector-Smart-Object.png",
+        "titleEgitimIcerigi" : "CNC UYGULAMA – 12 SAAT",
+        "descEgitimIcerigi" :"Gerçek CNC başında, imalat uygulaması. Tasarlayıp, kodlarını oluşturun."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "CNC UYGULAMASI EĞİTİMİ",
+    "titleParams" : "CNC-UYGULAMASI-EĞİTİMİ",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/cnc-uygulamas%C4%B1-kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"CNC UYGULAMA",
+    "AciklamaSection1Desc" :"CNC Operatörü geniş anlamda kullanılan bir terimdir. CNC Freze, CNC Torna, CNC Tel Erozyon vs. alt dalları vardır. CNC Operatörlerinin tezgahları programlamayı da bilmeleri gerekir, Günümüzde CAD CAM programlarının becerisinin artmasıyla ve otomasyon sistemiyle CNC Operatörlerinin CAD CAM Programlarını bilmelride kendilerine büyük fayda sağlamaktadır.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidworks.png",
+        "titleEgitimIcerigi" : "SOLIDWORKS – 72 SAAT",
+        "descEgitimIcerigi" :"Solidworks yenilikçi ve kolay olan 3 boyutlu parametrik bir tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/3d-experience.png",
+        "titleEgitimIcerigi" : "3D EXPERINCE – 30 SAAT",
+        "descEgitimIcerigi" :"Mühendislik ve Tasarım tekniklerinin olduğu alanda çok kullanılan program"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/catia.png",
+        "titleEgitimIcerigi" : "CATIA – 60 SAAT",
+        "descEgitimIcerigi" :"Otomotiv, havacılık, savunma sanayi sektörlerinde kullanılan CAD programıdır."
+      }
+     
+    ]
+  },
+  {
+    "id": 50,
+    "title": "MS OFFICE İLE İLERİ EXCEL VE MAKRO KURSU",
+    "titleParams" : "MS-OFFICE-İLE-İLERİ-EXCEL-VE-MAKRO-KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/08/MS-Office-ve-%C4%B0leri-Excel-ve-Makro-Kursu.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "AciklamaSection1" :"MS OFFICE İLE EXCEL VE MAKRO",
+    "AciklamaSection1Desc" :"Microsoft Excel’de formüllerin kullanımı ile ilgili detayları öğrenerek matris tablolar hazırlayabilir ve raporlarınızı dönem filtreleriyle otomatik olarak hesaplatabilirsiniz. Özet Tablo ve Özet Grafik (PivotTable ve PivotChart) uygulamaları ile özet raporlar hazırlayabilir ve rapor ihtiyaçlarını hızlıca karşılayabilirsiniz. Veri analizine ilişkin araçları kullanarak veri ayıklama ve birleştirme yapabilir veya olasılıklara bağlı olan sonuçları ifade edecek raporlar oluşturabilirsiniz.",
+    "DersSaati" : "48 Saat",
+    "KursSuresi" :"2 Ay",
+    "AciklamaEgitimIcerigi" : [
+    
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/solidcam.png",
+        "titleEgitimIcerigi" : "SOLIDCAM – 30 SAAT",
+        "descEgitimIcerigi" :"CNC makinaları için kod oluşturma yazılımıdır. 2,5- 3-4-5 eksen ve torna"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/matlab.png",
+        "titleEgitimIcerigi" : "MATLAB – 48 SAAT",
+        "descEgitimIcerigi" :"İleri düzey kodlama ve dinamik similasyonla, sistem tasarım ve analiz"
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/siemens-nx-cam.png",
+        "titleEgitimIcerigi" : "SIEMENS NX CAM – 36 SAAT",
+        "descEgitimIcerigi" :"NX CAM yüksek hızlı işleme ile karmaşık parçalarınızı daha hızlı işleyin."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/autocad.png",
+        "titleEgitimIcerigi" : "AUTOCAD – 48 SAAT",
+        "descEgitimIcerigi" :"2D ve 3D modelleme yapmak için kullanılan tasarım programıdır."
+      },
+      {
+        "imgEgitimIcerigi" : "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/cnc.png",
+        "titleEgitimIcerigi" : "CNC – 36 SAAT",
+        "descEgitimIcerigi" :"Manuel kodlama tekniklerini de öğrenip, kendinize bir artı daha katacaksınız"
+      }
+   
+    ]
+  }
+]

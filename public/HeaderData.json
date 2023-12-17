@@ -1,0 +1,171 @@
+[
+    {
+        "id" : 1,
+        "title" : "Makine Bi...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/makine-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/solidworks.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/fluent.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/fusion-360-1.jpg"
+        }
+    },
+    {
+       "id" : 2,
+         "title" : "Kalıp Uz...",
+         "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/kalip-86x86.jpg",
+         "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/moldflow-1.jpg",
+            "img2" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/plastik-kal%C4%B1p.jpg"
+        }
+    },
+    {
+        "id" : 3,
+        "title" : "Yazılım Uz...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/yazilim-1-1.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/C.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/PYTHON.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/yapay-zeka.jpg"
+        }
+    },
+    {
+        "id" : 4,
+        "title" : "Mobil Ge...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/mobil-1-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/android.jpg",
+            "img2" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/ios.jpg"
+        }
+    },
+    {
+        "id" : 5,
+        "title" : "Elektrik Ele...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/elektrik-1.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/cep-telefon.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/PLC.jpg"
+        }
+    },
+    {
+        "id" : 6,
+        "title" : "İnşaat Bil...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/insaat-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/react.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/siber-g%C3%BCvenlik-elit.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/JAVA.jpg"
+        }
+    },
+    {
+        "id" : 7,
+        "title" : "Mimari Yapı",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/mimari-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/lumion.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/rhino-arc.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/PLC.jpg"
+        }
+    },
+    {
+        "id" : 8,
+        "title" : "PLC Sis...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/plc-1-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/delta-plc.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/PLC.jpg"
+        }
+    },
+    {
+        "id" : 9,
+        "title" : "Grafik Vide...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/grafik-1-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/illustrator.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/photoshop.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/grafik-video.jpg"
+        }
+    },
+    {
+        "id" : 10,
+        "title" : "Mesleki Bili...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/mesleki-bilisim-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/web-tasar%C4%B1m.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/web-tasar%C4%B1m.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/dijital.jpg"
+        }
+    },
+    {
+        "id" : 11,
+        "title" : "Sınırsız Ka...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/sinirsiz-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/sinirsiz-insaat.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/sinirsiz-mimari.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/sinirsiz-yazilim.jpg"
+        }
+    },
+    {
+        "id" : 12,
+        "title" : "Elit Paketler",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/sinirsiz-2-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/makine-tasarim.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/mimari-elit.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/sinirsiz-yazilim.jpg"
+        }
+    },
+    {
+        "id" : 13,
+        "title" : "Kampanyalar",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/kampanya.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/44.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/21.jpg",
+            "img3" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/3-AY.jpg"
+        }
+    },
+    {
+        "id" : 14,
+        "title" : "Bizi Arayın",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/bizi-arayin-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/bizi-aray%C4%B1n-1.jpg"
+        }
+    },
+    {
+        "id" : 15,
+        "title" : "Çelik Yapılar",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/celik-yapi-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/celik.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/revit.jpg"
+        }
+    },
+    {
+        "id" : 16,
+        "title" : "Betonarme...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/betonarme-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/sta4cad.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/betonarme.jpg"
+        }
+    },
+    {
+        "id" : 17,
+        "title" : "Sosyal Med...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/sosyal-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/linkedin-taip-1.jpg",
+            "img2": "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/facebook-takip-1.jpg"
+        }
+    },
+    {
+        "id" : 18,
+        "title" : "Blog Say...",
+        "img" : "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/blog-86x86.jpg",
+        "imgs" : {
+            "img1": "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/autocad-blog-1.jpg"
+        }
+    }
+]

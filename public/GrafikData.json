@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "title": "WEB TASARIM UZMANLIĞI KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "WEB-TASARIM-UZMANLIĞI-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/web-tasar%C4%B1m-uzm.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"WEB TASARIM",
+      "AciklamaSection1Desc" :"Web tasarım  kursunda, öğrencilerin web arayüzleri tasarlayarak ve arka plan kodlamasını yaparak, sitelerin yayınlanabilir hale getirilmesinde uzmanlaşmaları hedeflenir. Photoshop programda web için görsel oluşturma ve standart veya Hareketli Web Banner tasarlama öğretilerek web temelleri hakkında altyapı oluşturulur. Adobe XD ile web sitesinin kodlaması yapılmadan nasıl prototip oluşturulur ve prototip oluşturmanın faydaları nelerdir? Sektörde ne için kullanılır? Gibi konularda öğrenciye bilgi aktarılır.",
+      "DersSaati" : "72 Saat",
+      "KursSuresi" :"3 Ay"
+    },
+    {
+      "id": 2,
+      "title": "GRAFİK TASARIM VE VİDEO EFFECT UZMANLIĞI KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "GRAFİK-TASARIM-VE-VİDEO-EFFECT-UZMANLIĞI-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/grafik-video-uzm.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"Türkiye’nin En Çok Program Öğreten Grafik Tasarım Eğitimi ile başlangıç seviyesinden tasarım seviyesine kadar gelebileceksiniz. Üçüncü binyıl Akademi olarak bizi rakiplerimizden ayıran en büyük ve önemli farkımız ; Sadece program kullanmayı değil, aynı zamanda bu programları kullanırken “fikir üretmeniz” ve “reklam tasarlayabilir” seviyeye gelmeniz üzerine kapsamlı bir eğitim sunuyor olmamızdır. Grafik tasarım mesleğinde, elbette önemli olan “fikir” üretebilmektir. Fakat programları aktif olarak kullanabilmeniz de büyük değere sahip. Bu değerin farkında bir Eğitim Akademisi olarak sizlere detaylı ve sektörün her alanına yönelik, kapsamlı eğitim içeriği sunuyoruz. Üçüncü Binyıl Eğitim Akademisi 15 yıldır Türkiye’de en iyi grafik tasarım kursu denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu eşliğinde ve Avrupa standartlarında; grafik tasarımın hem teknik hem de teorik olarak her yönüne hakim tam donanımlı bir grafik tasarımcı olmanızı sağlayan bu eğitim aynı zamanda video editleme, kurgu ve montaj konusunda da sıfırdan başlayarak uzmanlık seviyesine gelmenizi sağlar.",
+      "DersSaati" : "120 Saat",
+      "KursSuresi" :"5 Ay"
+    },
+    {
+      "id": 3,
+      "title": "GRAFİK TASARIM UZMANLIĞI KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "GRAFİK-TASARIM-UZMANLIĞI-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/grafik.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"GRAFİK TASARIM UZMANLIĞI",
+      "AciklamaSection1Desc" :"Türkiye’nin En Çok Program Öğreten Grafik Tasarım Eğitimi ile başlangıç seviyesinden tasarım seviyesine kadar gelebileceksiniz. Üçüncü binyıl Akademi olarak bizi rakiplerimizden ayıran en büyük ve önemli farkımız ; Sadece program kullanmayı değil, aynı zamanda bu programları kullanırken “fikir üretmeniz” ve “reklam tasarlayabilir” seviyeye gelmeniz üzerine kapsamlı bir eğitim sunuyor olmamızdır. Grafik tasarım mesleğinde, elbette önemli olan “fikir” üretebilmektir. Fakat programları aktif olarak kullanabilmeniz de büyük değere sahip. Bu değerin farkında bir Eğitim Akademisi olarak sizlere detaylı ve sektörün her alanına yönelik, kapsamlı eğitim içeriği sunuyoruz. Üçüncü Binyıl Eğitim Akademisi 15 yıldır Türkiye’de en iyi grafik tasarım kursu denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu eşliğinde ve Avrupa standartlarında; grafik tasarımın hem teknik hem de teorik olarak her yönüne hakim tam donanımlı bir grafik tasarımcı olmanızı sağlayan bu eğitim aynı zamanda video editleme, kurgu ve montaj konusunda da sıfırdan başlayarak uzmanlık seviyesine gelmenizi sağlar.",
+      "DersSaati" : "72 Saat",
+      "KursSuresi" :"3 Ay"
+    },
+    {
+      "id": 4,
+      "title": "VİDEO VE EFEKT UZMANLIĞI KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "VİDEO-VE-EFEKT-UZMANLIĞI-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/V%C4%B0DEO-EFEKT-KURSU.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"VİDEO VE EFEKT UZMANLIĞI",
+      "AciklamaSection1Desc" :"Görsel Efekt Tasarım eğitimine mimarlık, görsel sanatlar, 3D, grafik tasarım, film, TV ve web tasarım sektöründe çalışanlar gibi farklı branşlardan ve bu alanda kariyer yapmak isteyen herkes katılabilir. Sektörde en çok bilinen ve kullanılan compositing programı olan Adobe After Effects, sınırsız görsel içeriği ile video sunumlar ve uygulamalar yapmamızı sağlayan, çok yönlü bir efekt programıdır. Video efekt uzmanı (özel efekt uzmanı ) veya video editörlüğü mesleklerinin en temel amacı dijital dünyaya içerik üretebilmektir. İçerik üreticileri başta da değindiğimiz gibi farklı isimlerde meslekte yer alabilirler. Örneğin video efekt uzmanı (özel efekt uzmanı) Bilgisayar programlarını kullanarak hazır işçilikler üzerinden veya sıfırdan hazırlamış olduğunuz video veya kısa film projelerinize görsel anlamda efektler hazırlayıp izleyicileri seyir zevkine doyuracak efektif işçilik hizmeti sunarlar. Diğer yandan video editörü ise izlediğimiz belgesel,film,reklam gibi tüm video içeriklerinin çekimleri bittikten sonra post prodüksiyon aşaması dediğimiz görüntülerin kompozisyon haline gelmesinde son aşama olan kurgu aşamasında en iyi çekimleri seçme sırayla yerleştirme ses ve grafikler yerleştirip projeyi sonlandıran kişidir.",
+      "DersSaati" : "48 Saat",
+      "KursSuresi" :"2 Ay"
+    },
+    {
+      "id": 5,
+      "title": "MAYA KARAKTER MODELLEME VE ANİMASYON KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "MAYA-KARAKTER-MODELLEME-VE-ANİMASYON-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/10/autodesk_maya_3d_karakter_modelleme_ve_animasyon_kursu_egitimi.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"KARAKTER MODELLEME VE ANİMASYON",
+      "AciklamaSection1Desc" :"Üçüncü Binyıl Eğitim Akademisi 15 yıldır Türkiye’de en iyi animasyon kursu denince akla gelen en güvenilir ve köklü kurumdur. Sektörün içinden tecrübeli uzman eğitmen kadrosu eşliğinde ve Avrupa standartlarında Maya ile karakter modelleme ve animasyon yapmayı sıfırdan başlayarak zorlanmadan öğrenin.  Dünyanın en iyi 3D modelleme, 3D animasyon ve çizgi film yapım programlarından biri olan Autodesk Maya programı ile kurs sürecinin başından sonuna kadar bir animasyon filminin nasıl yapıldığını uygulamalı bir şekilde öğreneceksiniz.",
+      "DersSaati" : "144 Saat",
+      "KursSuresi" :"6 Ay"
+    },
+    {
+      "id": 6,
+      "title": "ZBRUSH KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "ZBRUSH-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/zbrush-kursu.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"ZBRUSH",
+      "AciklamaSection1Desc" :"Zbrush Programı, 3 boyutlu bir animasyon programıdır. ZBrush ile diğer 3D programları ile hayal dahi edemeyeceğiniz boyutta ince ve detaylı çalışmalar yapabilirsiniz. Günümüzde film sektöründeki en kusursuz animasyon çalışmaları ZBrush ile yapılmaktadır. Sinema sektörünün vazgeçilmezleri arasında bulunan bu 3 boyutlu animasyon yapma programını ZBrush Kursu ile birlikte sizler de en üst seviyede kullanabileceksiniz.",
+      "DersSaati" : "60 Saat",
+      "KursSuresi" :"2,5 Ay"
+    },
+    {
+      "id": 7,
+      "title": "AFTER EFFECTS KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "AFTER-EFFECTS-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/after-effects-kursu.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"AFTER EFFECTS ",
+      "AciklamaSection1Desc" :"After Effects eğitimine mimarlık, görsel sanatlar, 3D, grafik tasarım, film, TV ve web tasarım sektöründe çalışanlar gibi farklı branşlardan ve bu alanda kariyer yapmak isteyen herkes katılabilir.",
+      "DersSaati" : "18 Saat",
+      "KursSuresi" :"1 Ay"
+    },
+    {
+      "id": 8,
+      "title": "PREMIERE KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "PREMIERE-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/premiere-kursu.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"ADOBE PREMIERE",
+      "AciklamaSection1Desc" :"PREMIERE eğitimine mimarlık, görsel sanatlar, 3D, grafik tasarım, film, TV ve web tasarım sektöründe çalışanlar gibi farklı branşlardan ve bu alanda kariyer yapmak isteyen herkes katılabilir.",
+      "DersSaati" : "18 Saat",
+      "KursSuresi" :"1 Ay"
+    },
+    {
+      "id": 9,
+      "title": "PHOTOSHOP KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "PHOTOSHOP-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/photoshop-kursu.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"ADOBE PHOTOSHOP",
+      "AciklamaSection1Desc" :"Türkiye’nin en kapsamlı Photoshop Kursu olma özelliği taşıyan kursumuz en uzun süreli a’dan z’ye her detayı öğrenebileceğiniz tek PhotoShop Kursu’dur. Photoshop uzmanı olmak hiç bu kadar kolay olmamıştı! Adobe Photoshop eğitimi ile en az 2 yıllık deneyimli bir Photoshop uzmanı olarak iş dünyasına çok hızlı bir şekilde giriş yapabilirsiniz",
+      "DersSaati" : "36 Saat",
+      "KursSuresi" :"1,5 Ay"
+    },
+    {
+      "id": 10,
+      "title": "INDESIGN KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "INDESIGN-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/indesign-e%C4%9Fitimi-kursu.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"ADOBE INDESIGN",
+      "AciklamaSection1Desc" :"Türkiye’nin en kapsamlı INDESIGN Kursu olma özelliği taşıyan kursumuz en uzun süreli a’dan z’ye her detayı öğrenebileceğiniz tek INDESIGN Kursu’dur. INDESIGN uzmanı olmak hiç bu kadar kolay olmamıştı! Adobe INDESIGN eğitimi ile en az 2 yıllık deneyimli bir INDESIGN uzmanı olarak iş dünyasına çok hızlı bir şekilde giriş yapabilirsiniz.",
+      "DersSaati" : "12 Saat",
+      "KursSuresi" :"2 Hafta"
+    },
+    {
+      "id": 11,
+      "title": "ILLUSTRATOR KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "ILLUSTRATOR-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/illustrator-kursu-e%C4%9Fitimi.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"ADOBE ILLUSTRATOR ",
+      "AciklamaSection1Desc" :"Türkiye’nin en kapsamlı ILLUSTRATOR Kursu olma özelliği taşıyan kursumuz en uzun süreli a’dan z’ye her detayı öğrenebileceğiniz tek ILLUSTRATOR Kursu’dur.",
+      "DersSaati" : "30 Saat",
+      "KursSuresi" :"1 Ay"
+    },
+    {
+      "id": 12,
+      "title": "CORELDRAW KURSU",
+      "minTitle": "Grafik, Web, Video Ve Animasyon Eğitimleri",
+      "titleParams" : "CORELDRAW-KURSU",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/corel-e%C4%9Fitimi-kursu.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"CORELDRAW",
+      "AciklamaSection1Desc" :"Türkiye’nin en kapsamlı ILLUSTRATOR Kursu olma özelliği taşıyan kursumuz en uzun süreli a’dan z’ye her detayı öğrenebileceğiniz tek ILLUSTRATOR Kursu’dur.",
+      "DersSaati" : "12 Saat",
+      "KursSuresi" :"2 Hafta"
+    }
+  ]
+  

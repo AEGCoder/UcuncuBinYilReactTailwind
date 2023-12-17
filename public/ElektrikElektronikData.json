@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "MEKATRONİK MÜHENDİSLİĞİ KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" :"Mekatronik-mühendisliği-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/mekatronik-kursu.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"MEKATRONİK MÜHENDİSLİĞİ",
+      "AciklamaSection1Desc" :"El aletlerini kullanarak mekanizmaları yapma yeteneğinin kazandırıldığı eğitim materyalidir. mekatronik sistemler eğitiminin genel amacı mekanizmaların hareket tipine göre kuvvet ve moment analizini yapabilecek, elektronik ile mekaniği birleştirebileceksiniz. Mekatronik Uzmanlık Programı, endüstrinin beklentileri dikkate alınarak tasarlanmıştır. Bu Program katılımcılara gerekli olan teorik ve pratik bilgileri kazandırarak onların profesyonel yaşamda ihtiyaç duydukları bilgi, beceri ve yetkinliği sağlamaktadı",
+      "DersSaati" : "348 Saat",
+      "KursSuresi" :"14,5 Ay"
+    },
+    {
+      "id": 2,
+      "title": "PLC PROGRAMLAMA KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams": "PLC-programlama-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/plc.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"PLC PROGRAMLAMA",
+      "AciklamaSection1Desc" :"PLC (Programmable Logic Controller)aritmetik , mantıksal denetleyicidir. Fabrikalardaki üretim bölümlerinde veya makinelerin kontrolü gibi işlemlerin denetiminde kullanılan otomasyon cihazıdır. PLC’nin, birçok giriş ve çıkışı vardır. Bilgisayar üzerinden programlandıktan sonra elektrik devresine bağlanır. PLC’nin en büyük artılarından biri, , sıcaklık farklarına, toz, manyetik gürültü ve mekanik darbelere karşı dayanıklı olarak tasarlanmış olmasıdır. Geleceğin makineleşme sürecinde endüstri 4.0 teknolojisinin temelini oluşturur Sıra Kontrol: paketlemede, asansör endüstrisinde kullanılmaktadır. Hareket Kontrol: kauçuk, film ve kartezyen robot endüstrilerinde kullanılır. Süreç Denetimi: Makineler çalışır durumda olduğunda makinelerin hız ayarlarını, ağırlıklarını, debini, basıncını, sıcaklığını kontrol eder. Veri Yönetimi: havandırma ( klima), çimento, tekstil, robot vb. sanayilerde kullanılır. EĞİTİMLER SİEMENS VE DELTA PLC-PANELLER  İLE YAPILMAKTADIR.",
+      "DersSaati" : "48 Saat",
+      "KursSuresi" :"2 Ay"
+    },
+    {
+      "id": 3,
+      "title": "ELEKTRİK ELEKTRONİK KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" :"Elektrik-elektronik-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/ELEKTR%C4%B0K-ELEKTRON%C4%B0K-KURSU.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"ELEKTRİK ELEKTRONİK",
+      "AciklamaSection1Desc" :"Farklı meslekteki teknik elemanlar ile elektrik elektronik alanında bir meslek sahibi olmak isteyenlere iş ve iş yerleri için gerekli temel elektrik- elektronik bilgilerini kazandırmak .Zayıf akım,Aydınlatma,haberleşme ,görüntü ve ses,güvenlik vb gibi alanları öğrenir. Endüstriyel elektroniğin temelini oluşturan transistör,triyak mosfet vb. devre elemanlarını bilir. Devre kanunlarını öğrenme, arızalarını tespit etme, test cihazlarını kullanabilme, elektrik devre tasarımı yapabilme, yeni bir ürün veya sistemin nihai üretim ve uygulanması dahil olmak üzere bir projenin herhangi bir aşamasında yer alabilme becerisi hedeflenir.",
+      "DersSaati" : "36 Saat",
+      "KursSuresi" :"1,5 Ay"
+    },
+    {
+      "id": 4,
+      "title": "OTOMATİK KUMANDA KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" : "Otomatik-kumanda-kursu",  
+       "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/OTOMAT%C4%B0K-KUMANDA-E%C4%9E%C4%B0T%C4%B0M%C4%B0.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"OTOMATİK KUMANDA",
+      "AciklamaSection1Desc" :"Kumanda devre elemanlarını tanıtmak ve kullandırmak, Otomatik Kumanda, Pano işleme ,kumanda tasarımı yapma yeteneği kazandırarak otomasyon projelerini donanımsal olarak gerçekleştirilebilmesidir. Otomatik kumanda projelerini okuma ,Sanayide kullanılan endüstriyel röle tasarımı yapma, Fabrikalarda makina kumandalarını çizmek arızaları, gidermek ve onarımlarını yapabilme becerisi kazandırmak, Sisteme uygun motor ve termik seçimlerini yapabilme becerisi hedeflenir.",
+      "DersSaati" : "24 Saat",
+      "KursSuresi" :"1 Ay"
+    },
+    {
+      "id": 5,
+      "title": "SERVO MOTOR VE STEP MOTOR KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" : "Servo-motor-ve-step-motor-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/SERVO-STEP-MOTOR-KURSU-E%C4%9E%C4%B0T%C4%B0M%C4%B0.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"SERVO MOTOR VE STEP MOTOR",
+      "AciklamaSection1Desc" :"Step ve servo motorlar, elektrik enerjisini dönme hareketi sayesinde fiziksel enerjiye çeviren ve açısal konumu adımlar halinde değiştirebilen elektromekanik cihazlar olarak tanımlanabilir. Makinada İhtiyaç duyulan güç faktörü göz önünde bulundurularak step ve servo motorlar arasından tercih yapmak, birçok endüstriyel uygulamada motorlardan yüksek verim alınmasına yardımcı olur. Servo motorlar, kullanıldığı mekanizmada geri besleme kontrol sistemi sayesinde çalışmadaki hataları tespit edip düzeltmeye yarayan; hem ivme hem de hız kontrolünün oldukça yüksek olmasını sağlayan cihazlardır. Bu özelliği sayesinde özellikle hareket ve pozisyonlarda çok ince kontroller gerektiren uygulamalarda steplere göre verimi son derece üst seviyededir.",
+      "DersSaati" : "24 Saat",
+      "KursSuresi" :"1 Ay"
+    },
+    {
+      "id": 6,
+      "title": "PNÖMATİK VE ELEKTROPNÖMATİK KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" : "Pnömatik-ve-elektropnömatik-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/PN%C3%96MAT%C4%B0K-VE-ELEKTROPN%C3%96MAT%C4%B0K-E%C4%9E%C4%B0T%C4%B0M%C4%B0.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"PNÖMATİK VE ELEKTROPNÖMATİK",
+      "AciklamaSection1Desc" :"Pnömatik ve Elektropnömatik devre elemanlarının adını, iç yapısını, çalışma prensibini öğretmek Pnömatik ve Elektropnömatik devrelerde meydana gelecek arızaları bulma ve giderebilme becerisi kazandırmak ,elemanların bakımlarının yapılması ve bakım sırasında dikkat edilecek hususlar. Bir işletmenin hava ihtiyacını tespit ederek, kompresör seçimi yapmak ve hava tesisatını tasarlayabilme becerisi kazandırmak.",
+      "DersSaati" : "24 Saat",
+      "KursSuresi" :"1 Ay"
+    },
+    {
+      "id": 7,
+      "title": "ARDUINO ROBOTİK KODLAMA KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" : "Arduino-robotik-kodlama-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/ARDU%C4%B0NO-KURSU.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"ARDUINO ROBOTİK KODLAMA",
+      "AciklamaSection1Desc" :"Arduino kolay kullanılabilir ve esnek bir yazılım/donanım mimarisine sahip, açık kaynak (open source) ailesine mensup bir elektronik geliştirme kartıdır. Bilgisayar üzerinde çalışan yazılımlarda da kullanılabilir. örneğin Macromedia Flash, Processing, Max/MSP ve birçok yazılıma bağlayabilir ve özgürce geliştirmeler yapabilirsiniz. Arduino kartlarının donanımında bir adet Atmel AVR mikrodenetleyici (ATmega328, ATmega2560 vb) , programlamayabilmek ve diğer devrelerle bağlantı kurabilmek için elemanlar bulunur. Platformdan bağımsız bir şekilde çalışabilirsiniz. Linux ya da Windows ta özgürce projelerinizi geliştirebilirsiniz",
+      "DersSaati" : "48 Saat",
+      "KursSuresi" :"2 Ay"
+    },
+    {
+      "id": 8,
+      "title": "REVIT MEP ELEKTRİK KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" : "Revit-mep-elektrik-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/revit-mep-elektrik.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"REVIT MEP ELEKTRİK",
+      "AciklamaSection1Desc" :"Revit mep elektrik BIM tabanlı tasarım programıdır. Kendi familylerinizi oluşturarak tasarım yapabilmenizi sağlayan Revit mep elektrik aynı anda metraj çıkartarak malzeme giderlerinizi planlamanıza yardımcı olacaktır. Dünya çapında kullanılan bu program ile sizlerde temel seviyeden uzmanlık seviyesine gelerek kendiniz elektrik projeleri tasarlayabileceksiniz.",
+      "DersSaati" : "24 Saat",
+      "KursSuresi" :"1 Ay"
+    },
+    {
+      "id": 9,
+      "title": "CEP TELEFONU TAMİRİ KURSU",
+      "minTitle": "PLC Elektrik Elektronik Eğitimleri",
+      "titleParams" : "Cep-telefonu-tamiri-kursu",
+      "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/08/CEP-TELEFONU-TAM%C4%B0R%C4%B0-KURSU.jpg",
+      "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+      "AciklamaSection1" :"CEP TELEFONU TAMİR",
+      "AciklamaSection1Desc" :"Cep telefonlarının mekanik, elektronik ve yazılımsal arızalarını giderecek bilgi donanımı sağlayan uygulamalı bir eğitimdir. Dijital olarak ihtiyaçlarımızı karşılayabilecek cep telefonuna hem ulaşmak hem de taşımak çok kolaydır. Cep telefonunun taşınabilir olması birçok kaza riskini de beraberinde getirerek mekanik arızaya (ekran kırılması vb.) sebep olmakta, bunun yanında elektronik bir cihaz olarak dış ortamdan etkilenmekte (nem, ısı vb.) ve elektronik arızalar oluşturmaktadır. Cep telefonu programlanabilir dijital bir cihaz olmasından dolayı yazılımsal hatalar oluşabilmektedir. Tüm bu sorunların tamiri ve çözümleri için bu eğitimi alabilirsiniz",
+      "DersSaati" : "60 Saat",
+      "KursSuresi" :"2,5 Ay"
+    }
+  ]
+  

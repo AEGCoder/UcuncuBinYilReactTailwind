@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "TASARIM, ANALİZ ve İMALAT MÜHENDİSLİĞİ KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "titleParams" : "TASARIM-ANALİZ-ve-İMALAT-MÜHENDİSLİĞİ-KURSU",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/6-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "link" : "/makine/TASARIM-ANALİZ-ve-İMALAT-MÜHENDİSLİĞİ-KURSU"
+  },
+  {
+    "id": 2,
+    "title": "ARGE MÜHENDİSLİĞİ KURSU",
+    "minTitle": "Makine Eğitimleri",
+    "titleParams" : "ARGE-MÜHENDİSLİĞİ-KURSU",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/10/7-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "link" : "/makine/ARGE-MÜHENDİSLİĞİ-KURSU"
+  },
+  {
+    "id": 3,
+    "title": "FULL STACK DEVELOPER  YAZILIM UZMANLIĞI KURSU",
+    "minTitle": "Yazılım Eğitimleri",
+    "titleParams" : "FULL-STACK-DEVELOPER-YAZILIM-UZMANLIĞI-KURSU",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/09/full-stack-developer-yaz%C4%B1l%C4%B1m-uzmanl%C4%B1%C4%9F%C4%B1-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "link" : "/yazilim/FULL-STACK-DEVELOPER-YAZILIM-UZMANLIĞI-KURSU"
+  },
+  {
+    "id": 4,
+    "title": "YAZILIM UZMANLIĞI KURSU",
+    "minTitle": "Yazılım Eğitimleri",
+    "titleParams" : "YAZILIM-UZMANLIĞI-KURSU",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2015/12/yaz%C4%B1lim-uzmanligi-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "link" : "/yazilim/YAZILIM-UZMANLIĞI-KURSU"
+  },
+  {
+    "id": 5,
+    "title": "BIM MANAGER KURSU",
+    "minTitle": "Mimari Eğitimleri",
+    "titleParams" : "BIM-MANAGER-KURSU",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/09/revit-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "link" : "/mimari/BIM-MANAGER-KURSU"
+  },
+  {
+    "id": 6,
+    "title": "MİMARİ TASARIM UZMANLIĞI KURSU",
+    "minTitle": "Mimari Eğitimleri",
+    "titleParams": "MİMARİ-TASARIM-UZMANLIGI-KURSU",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/mimari-e%C4%9Fitimleri-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "link" : "/mimari/MİMARİ-TASARIM-UZMANLIGI-KURSU"
+  },
+
+  {
+    "id": 7,
+    "title": "ÇELİK YAPILAR PROJE MÜHENDİSLİĞİ KURSU",
+    "minTitle": "İnşaat Eğitimleri",
+    "titleParams" : "ÇELİK-YAPILAR-PROJE-MÜHENDİSLİĞİ-KURSU",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2020/07/%C3%A7elik-yap%C4%B1lar-kursu-400x300.jpg",
+    "logo": "https://www.ucuncubinyil.com/wp-content/uploads/avatars/1/5ee88183019a3-bpfull.png",
+    "link" : "/insaat/ÇELİK-YAPILAR-PROJE-MÜHENDİSLİĞİ-KURSU"
+  }
+]

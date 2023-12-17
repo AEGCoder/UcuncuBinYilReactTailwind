@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+ 
+.pagination {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .pagination-item {
+    border: 1px solid #ccc; /* You can customize the border style here */
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+  }
+
+  .pagination-link {
+    color: #333; /* You can customize the text color here */
+    text-decoration: none;
+  }
+
+    .pagination-item:hover {
+        background-color: #775505;
+        color: #fff;
+        transition: all 0.3s ease-in-out;
+    }
+
+  .active {
+    background-color: #FFB606; /* You can customize the active page background color here */
+    color: #fff; /* You can customize the active page text color here */
+  }
+
+  .pagination-previous,
+  .pagination-next {
+    border: 1px solid #ccc; /* You can customize the border style here */
+    cursor: pointer;
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  .pagination-previous:hover,
+  .pagination-next:hover {
+    background-color: #775505;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+  } 
+
+  
+
+
+.headerHover  li:hover {
+  border-bottom: 2px solid #FFB606;
+  transition: all 0.2s ease-in-out;
+  padding-top: 0;
+}
+
+
+

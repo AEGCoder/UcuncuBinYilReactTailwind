@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "day": "10",
+    "month": "KASIM",
+    "title": "BIM Manager Eğitimi",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/11/BIM.jpg",
+    "desc" : "Yapı Bilgi Modellemesi(Building Information Modeling-BIM) ile birlikte yapıların modellerine eklenen bilgi maksimum düzeye ulaşmıştır. BIM ile proje yönetiminde hem zamandan hem de maliyetten %40–50 ‘lere varan tasarruf sağlanmaktadır. Süreci yönetmek-yönetmeyi öğrenmekte profesyonelleri bir hayli zorlamaktadır. BIM operatörleri tarafından yapı ömrü …",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 2,
+    "day": "08",
+    "month": "KASIM",
+    "title": "Open Redirect Güvenlik Zafiyeti Nedir?",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/11/Open-Redirect.jpg",
+    "desc" : "Open Redirect güvenlik zafiyeti URL yönlendirmeleri nedeniyle ortaya çıkan bir güvenlik problemi. Web uygulamaları kendi içinde başka bir alana yönlendirme yapması gerektiğinde “open redirect” ile bunu gerçekleştirebilir. Bizi ilgilendiren kısım ise bu web uygulamasını farklı bir adrese yönlendirmeyi denemek. Peki …",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 3,
+    "day": "07",
+    "month": "KASIM",
+    "title": "Grafik Tasarım - Baskı Teknikleri",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/11/grafik-tasar%C4%B1m-bask%C4%B1-teknikleri.jpg",
+    "desc" : "Grafik Tasarım Sektörünün olmazsa olmaz alanlarından birisi. Kullandığımız programlar bir birinden farklı olsa da, her bir program içerisinde farklı komutlar kullansak da aslında dikkat edilmesi gereken noktalar, kurallar bir birine çok benzer. Matbaa Baskısı için ayrı, Dijital Baskı ( Katı …",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 4,
+    "day": "06",
+    "month": "KASIM",
+    "title": "Dosya yükleme zafiyet taraması nasıl yapılır?",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/11/zaafiyet-taramasi.jpg",
+    "desc" : "Bir sitede sıklıkla upload yapabileceğimiz yerler görürüz. Bunlar profil fotoğrafı yükleme yerleri olabilir, okul sitenizde ödev yükleme yeri olabilir. Belli formatların yüklenmesine izin verilir. JPG,PNG vs. gibi. Biz bu uzantıların dışında sisteme uzaktan erişebilmemize izin verecek SHELL dosyaları yüklemeye çalışacağız. …",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 5,
+    "day": "05",
+    "month": "KASIM",
+    "title": "N-Tier Architecture Nedir?",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/11/0.jpg",
+    "desc" : "Yazılım projelendirme de kullanılan bu yapı proje içinde iş bölümü yapmayı ve her katmanın ayrı bir işle uğraşmasını sağlar. İlk aşamada iş yükü olarak görünse de, sürdürülebilirlik açısından çok daha az maliyetli ve kodlanma kolaylığı sağlar. Planlanan her işte olduğu …",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 6,
+    "day": "04",
+    "month": "KASIM",
+    "title": "Yazılım Mimarisi Mesleki Tanıtımı",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/11/yaz%C4%B1l%C4%B1m-mimarisi.jpg",
+    "desc" : "Yazılım Mimarisi Nedir? Bir bina inşasına başlamadan projelendirme aşamasında mutlaka mimarlar tarafından mimarisi tasarlanır. Tıpkı bu işlem gibi yazılım projesi de projelendirilmeden önce planlanması gerekli ilk adımda mimari tasarımıdır. Bu tasarıma “Yazılım Mimarisi” bunu yapan kişi veya kişilere de “Yazılım …",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 7,
+    "day": "03",
+    "month": "KASIM",
+    "title": "Grafik Tasarım Mesleki Tanıtımı",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/11/yaz%C4%B1l%C4%B1m-mimarisi.jpg",
+    "desc" : "Grafik Tasarım meslek dalının en temel amacı reklam yapmaktır. Kendisine verilen bir slogan veya içerik doğrultusunda, hayal gücünü kullanarak bir “ mesaj vermeye “ çalışır. Bu mesaj yeri geldiğin de bir markanın logosu olabilir. Bazen belirlenen bir slogan ile çalışılmış …",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 8,
+    "day": "07",
+    "month": "EYLÜL",
+    "title": "15. YILIMIZI KUTLADIK",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-07-at-18.35.54.jpeg",
+    "desc" : "İlk kurulduğumuz günden bugüne kadar, aynı heyecan ve tutkuyla, işimizde büyümeye devam ediyoruz.  İlk gün yola çıktığımızdaki tek hedefimiz olan ‘’KALİTE’’ yi sürekli arttırarak, geliştirerek, kendimizi güncelleyerek, gelişen teknolojilere ayak uydurarak, daha fazla fayda ve kalite anlayışı ile yolumuzdan hiç … ",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 9,
+    "day": "27",
+    "month": "NİSAN",
+    "title": "Eğitimlerimiz Pandemiden Sonra Tüm Hızıyla Devam Ediyor.",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/04/yuksek-slider-2.jpg",
+    "desc" : "Sevgili öğrencilerimiz, Eğitimlerimiz 5 Haziran’da başlayacaktır. Herkese sağlıklı günler dileriz. Üçüncü Binyıl Akademi Ayrıntılı Bilgi İçin 444 3 111 bilgi@ucuncubinyil.com ya da İletişim Formunu doldurabilirsiniz.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 10,
+    "day": "02",
+    "month": "MART",
+    "title": "AutoCAD Nedir? Neden Kullanırız? Avantajları Dezavantajları Nelerdir?",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/03/autocad-kursu.jpg",
+    "desc" : "AutoCAD, Amerika Birleşik Devletleri merkezli Autodesk şirketinin 1980’lerin başından beri geliştirdiği bir bilgisayar destekli tasarım yazılımı. Teknik resim çizmek için kullanılan diğer programlar gibi vektör tabanlıdır. AutoCAD’in dosya biçimi DWG’dir. DWG, DraWinG (çizim) anlamındadır. Dünyaya bu dosya biçimini tanıtan programdır. DWG dosya biçiminin diğer CAD programları tarafından da tanınıp okunabilmesi için, DXF (Drawing interchange [X] Format) adında bir çizim aradeğişim biçimi de yine Autodesk firması tarafından oluşturulmuştur.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 11,
+    "day": "22",
+    "month": "ŞUBAT",
+    "title": "Yazılım Uzmanı Olmak İsteyenlerin Bilmesi Gerekenler",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/yaz%C4%B1l%C4%B1m-uzman%C4%B1-nas%C4%B1l-olunur.jpg",
+    "desc" : "Yazılım Uzmanlığı, tüm dünya’da çağın ötesini hedefleyen kişiler için vazgeçilmez tek meslektir. Eğer günümüzde geleceği tasarlamak istiyorsak tek yapmamız gereken şey kaliteli tam donanımlı bir yazılım uzmanı olmaktır. Yazılım uzmanı her zaman gelişime açık olmalı ve çağa ayak uydurmalıdır. Gelişen teknolojiler ile birlikte her geçen gün yenilenen teknolojik altyapı ve sistemlere hakim olmak ve bilgileri güncel tutmak her zaman en önemli hedef olmalıdır. Yazılım uzmanlığı birçok farklı alana ayrılabilmektedir. Web üzerinde, masaüstü programlama üzerinde, yapay zeka üzerinde, siber güvenlik üzerinde vb. daha birçok alanda uzmanlaşmak ya da bilgi sahibi olmak sizi her zaman çağın ötesinde tutacaktır. Sizler için bir yazılım uzmanının ihtiyaç duyabileceği başlıca yazılım uzmanlığı bilgilerini sıraladık. Keyifli okumalar.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 12,
+    "day": "15",
+    "month": "ŞUBAT",
+    "title": "SolidWorks ve Catia İçin Laptop ve Desktop Bilgisayar Tavsiyeleri",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/solidworks-sistem-gereksinimleri-catia-sistem-gereksinimleri.jpg",
+    "desc" : "Makine eğitimlerimizde kullanılan programların kaldıracağı seviyede bilgisayar önerilerini derlediğimiz yazımızda sizlere yardımcı olmaya çalışacağız. Bahsettiğimiz bilgisayar özellikleri ortalama özellikleri baz almaktadır. SolidWorks 2019 SolidWorks 2020 SolidWorks 2021 Catia 2018 Catia 2019 Catia 2020 ve Catia 2021 İçin Laptop ve Desktop Bilgisayar Tavsiyelerimiz… SolidWorks 2019 Sistem Gereksinimleri Nelerdir? / SolidWorks 2020 Sistem Gereksinimleri Nelerdir? / SolidWorks 2021 Sistem Gereksinimleri Nelerdir?  SolidWorks 2019 için laptop tavsiyesi, solidworks 2020 için laptop tavsiyesi ve solidworks 2021 için laptop önerisi arayışlarınız için tüm özellikleri sizler için derledik.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 13,
+    "day": "05",
+    "month": "ŞUBAT",
+    "title": "Yüz Yüze Eğitim Başladı",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/%C3%B6rg%C3%BCn-e%C4%9Fitimler-ba%C5%9Flad%C4%B1.jpg",
+    "desc" : "İstanbul’da dün yayımlanan il hıfzıssıhha meclisi kararıyla artık özel eğitim kurumlarında örgün eğitime geçildi. Siz değerli öğrencilerimiz ile artık 8’er kişilik sınıflarda workstation bilgisayarlar ile örgün eğitime geri döndük. Üçüncü Binyıl Akademi eğitim izin onayı verdiğimiz her öğrencimiz eğitim saatlerinde sokağa çıkma yasaklarından muaf tutulacaktır. Sokağa çıkma izin belgesi verdiğimiz öğrencilerimiz eğitim saatleri boyunca verdiğimiz izin belgesi ile izinli sayılacaklardır. Örgün yüz yüze eğitimlerimiz ile aramıza katılmak için hemen 444 3 111 numaralı eğitim danışmanlık hattımızı arayabilirsiniz. Yüz yüze eğitim yaptığımız eğitim kategorilerimizi ve eğitimlerimizi incelemek için derlemiş olduğumuz eğitimlerimizi aşağıdan takip edebilirsiniz.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 14,
+    "day": "04",
+    "month": "ŞUBAT",
+    "title": "En Çok Tercih Edilen Makine Programları",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/02/makine-m%C3%BChendisi-hangi-programlar%C4%B1-bilmelidir.jpg",
+    "desc" : "Hem Türkiye’de hem de dünya genelinde en çok rağbet gören, şirketlerin en çok istihdam oluşturduğu programları Üçüncü Binyıl Akademi olarak sizler için derledik. Bu makine mühendisliği ve makine teknikerliği programlarını bilenler iş bulmakta ya da sektör içerisine üretici olarak girdiğinde iş alanlarında zorlanmadıkları tüm otoriteler tarafından kabul görmektedir. Üçüncü Binyıl Akademi hem bu programların eğitimlerini vermekte, hem de sektörel olarak bu konuda hizmet sunmaktadır. En çok tercih edilen 5 makine eğitimlerinden bazılarına bir göz atalım.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 15,
+    "day": "28",
+    "month": "OCAK",
+    "title": "İnşaat Mühendisleri Hangi Programları Bilmelidir?",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/01/%C3%BC%C3%A7%C3%BCnc%C3%BC-biny%C4%B1l-in%C5%9Faat-kurslar%C4%B1.jpg",
+    "desc" : "Bir inşaat mühendisi veya inşaat teknikerinin en çok ihtiyaç duyduğu ve aynı zamanda hem türkiye’de hem de dünya’da şirketlerin en çok talep ettiği uzmanlıkları sizler için sıraladık. İnşaat mühendisliği artık günümüzde rekabetin en çok olduğu alanların başında gelmektedir. Hem sektörde iş bulmak hem de yüksek maaşlar kazanmak oldukça zorlaştı. Sektörün zora girmesi sebebi ile şirketler artık birden fazla program bilen inşaat mühendisi ya da teknikeri alma yoluna gittiler. Bu sebeple artık inşaat mühendisleri iş ilanlarında en az 3 4 program bilen kişiler aranmaktadır. Sizi diğer rakiplerinizden öne çıkaracak ve mutlaka uzmanı olmanız gereken programları derledik.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 16,
+    "day": "23",
+    "month": "OCAK",
+    "title": "Elektrik Elektronik PLC Programlama Uzmanlığında Hangi PLC Makineleri Bilinmeli",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/01/PLC-PROGRAMLAMA-E%C4%9E%C4%B0T%C4%B0M%C4%B0.jpg",
+    "desc" : "Elektrik Elektronik Mühendis ve Teknikerleri’nin en çok ihtiyaç duyduğu alanların başında PLC Programlama gelmektedir. PLC Programlama ile elektrik elektronik alanında rakiplerinizin önüne geçeceğinizden şüphe yoktur. Peki Türkiye’de ve dünya’da en çok tercih edilen PLC Makineleri hangileridir? Nasıl bir uzmanlık gerektirir? yazımızda bulabilirsiniz.",
+    "link" :"DAHA FAZLASI"
+  },
+  {
+    "id": 17,
+    "day": "21",
+    "month": "OCAK",
+    "title": "2021'in En Çok Gelecek Vaat Eden 10 Mesleği ",
+    "sender" : "Üçüncü Binyıl",
+    "category" : "GENEL, BLOG",
+    "comment" : "0",
+    "img": "https://www.ucuncubinyil.com/wp-content/uploads/2021/01/blog-_-2021_in-en-cok-gelecek-vaad-eden-meslekleri.jpg",
+    "desc" : "Tüm dünyayı etkisi altına alan corona virüs sürecinde dijital mesleklerin öneminin daha da arttığı günümüzde bu meslekler artık geleceği tasarlıyor. En çok tercih edilen 10 mesleği sizler için derledik.",
+    "link" :"DAHA FAZLASI"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+]
